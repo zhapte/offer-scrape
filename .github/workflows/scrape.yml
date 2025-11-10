@@ -2,15 +2,15 @@ name: Daily McArthurGlen Offers
 
 on:
   schedule:
-    # 17:00 UTC = 09:00 Vancouver (standard time). Adjust as needed.
-    - cron: "0 17 * * *"
+    - cron: "0 17 * * *"  # 09:00 Vancouver (PST). Adjust as needed.
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow committing CSV/JSON back to the repo
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,21 +20,28 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install Python deps
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # ensure requests is available for Discord step
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install "playwright==1.*"; fi
           pip install requests
+      # 👉 Playwright needs Linux system libs in CI:
+      - name: Install Playwright browsers + Linux deps
+        run: |
           python -m playwright install chromium
+          python -m playwright install-deps
 
       - name: Run scraper
-        run: |
-          python mcarthurglen_offers_playwright_v2.py --timeout 60000
         env:
           PLAYWRIGHT_BROWSERS_PATH: ~/.cache/ms-playwright
+          TZ: America/Vancouver
+          PYTHONUNBUFFERED: "1"
+        run: |
+          set -e
+          python mcarthurglen_offers_playwright_v2.py --timeout 90000
 
-      - name: Upload artifacts
+      - name: Upload artifacts (even on failure)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: offers-output
@@ -42,9 +49,11 @@ jobs:
             offers_latest.csv
             offers_latest.json
             offers_latest.prev.json
-          if-no-files-found: ignore
+            page_debug.png
+          if-no-files-found: warn
 
       - name: Commit CSV/JSON to repo
+        if: success()   # only commit on successful scrape
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -53,42 +62,29 @@ jobs:
           git push || true
 
       - name: Notify Discord (diff only)
-        if: always()
+        if: success()   # only ping when scrape worked
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           python - << 'PY'
           import os, json, requests, pathlib
           url = os.environ.get("DISCORD_WEBHOOK")
-          if not url:
-              raise SystemExit(0)  # no webhook configured
+          if not url: raise SystemExit(0)
           p_new = pathlib.Path("offers_latest.json")
           p_prev = pathlib.Path("offers_latest.prev.json")
-          if not p_new.exists():
-              raise SystemExit(0)
+          if not p_new.exists(): raise SystemExit(0)
           new = json.loads(p_new.read_text(encoding="utf-8"))
           prev = json.loads(p_prev.read_text(encoding="utf-8")) if p_prev.exists() else []
           nk = {(o.get("brand"), o.get("title")) for o in new}
           ok = {(o.get("brand"), o.get("title")) for o in prev}
           added = [b for b in new if (b["brand"], b["title"]) in (nk-ok)]
           removed = [b for b in prev if (b["brand"], b["title"]) in (ok-nk)]
-          if not added and not removed:
-              raise SystemExit(0)
+          if not added and not removed: raise SystemExit(0)
           def fmt(items, sign):
-              lines = []
-              for i in items[:20]:
-                  t = i.get("title") or ""
-                  b = i.get("brand") or "Unknown"
-                  lines.append(f"{sign} **{b}** — {t}")
-              return "\n".join(lines)
-          content = "**McArthurGlen Offers – Changes**\n"
-          if added: content += fmt(added, "+") + "\n"
-          if removed: content += fmt(removed, "-")
-          # Trim to Discord limit
+              return "\n".join(f"{sign} **{(i.get('brand') or 'Unknown')}** — {i.get('title') or ''}" for i in items[:20])
+          content = "**McArthurGlen Offers – Changes**\n" + (fmt(added,"+")+"\n" if added else "") + (fmt(removed,"-") if removed else "")
           content = content[:1900]
           r = requests.post(url, json={"content": content})
-          try:
-              r.raise_for_status()
-          except Exception as e:
-              print("Discord post failed:", e, "status=", r.status_code, "body=", r.text)
+          try: r.raise_for_status()
+          except Exception as e: print("Discord post failed:", e, "status=", r.status_code, "body=", r.text)
           PY
