@@ -1,0 +1,14 @@
+name: Discord Ping
+on: workflow_dispatch
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK" ]; then echo "Missing secret"; exit 1; fi
+          curl -sS -X POST -H "Content-Type: application/json" \
+            -d '{"content":"✅ Test ping from GitHub Actions"}' \
+            "$DISCORD_WEBHOOK" -w "\nHTTP %{http_code}\n"
