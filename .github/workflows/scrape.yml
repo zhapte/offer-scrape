@@ -10,9 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     env:
-      # Make sure Playwright uses an absolute path, not "~"
       PLAYWRIGHT_BROWSERS_PATH: $HOME/.cache/ms-playwright
       TZ: America/Vancouver
       PYTHONUNBUFFERED: "1"
@@ -26,14 +24,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Python deps
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install "playwright==1.*"; fi
           pip install requests
-
-      - name: Install Playwright browsers + Linux deps
-        run: |
           python -m playwright install chromium
           python -m playwright install-deps
 
@@ -41,17 +36,59 @@ jobs:
         run: |
           python offer.py --timeout 90000
 
-      - name: Upload artifacts (even on failure)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: offers-output
-          path: |
-            offers_latest.csv
-            offers_latest.json
-            offers_latest.prev.json
-            page_debug.png
-          if-no-files-found: warn
+      # Compute diff -> set outputs
+      - name: Detect changes
+        id: diff
+        run: |
+          python - << 'PY'
+          import json, pathlib, os, sys
+          p_new = pathlib.Path("offers_latest.json")
+          p_prev = pathlib.Path("offers_latest.prev.json")
+          new  = json.loads(p_new.read_text(encoding="utf-8")) if p_new.exists() else []
+          prev = json.loads(p_prev.read_text(encoding="utf-8")) if p_prev.exists() else []
+          nk = {(o.get("brand"), o.get("title")) for o in new}
+          ok = {(o.get("brand"), o.get("title")) for o in prev}
+          added   = [b for b in new  if (b["brand"], b["title"]) in (nk-ok)]
+          removed = [b for b in prev if (b["brand"], b["title"]) in (ok-nk)]
+          has_changes = "true" if (added or removed) else "false"
+
+          def fmt(items, sign):
+              out = []
+              for i in items[:10]:
+                  b = i.get("brand") or "Unknown"
+                  t = i.get("title") or ""
+                  dp = i.get("discount_percent")
+                  pct = f" ({dp}%)" if isinstance(dp, int) else ""
+                  out.append(f"{sign} **{b}**{pct} — {t}")
+              return "\n".join(out)
+
+          summary = f"**McArthurGlen Offers – {len(new)} offers** | +{len(added)} / -{len(removed)} changes"
+          content = summary
+          if added:   content += "\n\n**New/changed:**\n" + fmt(added, "+")
+          if removed: content += "\n\n**Ended/removed:**\n" + fmt(removed, "-")
+          content = content[:1900]
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"has_changes={has_changes}\n")
+              # escape % and newlines for safe output
+              f.write("message<<EOF\n"); f.write(content); f.write("\nEOF\n")
+          PY
+
+      # Notify ONLY if changed
+      - name: Notify Discord (only on change)
+        if: steps.diff.outputs.has_changes == 'true'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python - << 'PY'
+          import os, requests
+          url = os.environ.get("DISCORD_WEBHOOK")
+          if not url: raise SystemExit(0)
+          msg = """${{ steps.diff.outputs.message }}"""
+          r = requests.post(url, json={"content": msg})
+          print("Discord HTTP status:", r.status_code)
+          r.raise_for_status()
+          PY
 
       - name: Commit CSV/JSON to repo
         if: success()
@@ -61,31 +98,3 @@ jobs:
           git add offers_latest.csv offers_latest.json offers_latest.prev.json || true
           git commit -m "Daily scrape: $(date -u '+%Y-%m-%d %H:%M:%S') UTC" || echo "No changes to commit"
           git push || true
-
-      - name: Notify Discord (diff only)
-        if: success()
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: |
-          python - << 'PY'
-          import os, json, requests, pathlib
-          url = os.environ.get("DISCORD_WEBHOOK")
-          if not url: raise SystemExit(0)
-          p_new = pathlib.Path("offers_latest.json")
-          p_prev = pathlib.Path("offers_latest.prev.json")
-          if not p_new.exists(): raise SystemExit(0)
-          new = json.loads(p_new.read_text(encoding="utf-8"))
-          prev = json.loads(p_prev.read_text(encoding="utf-8")) if p_prev.exists() else []
-          nk = {(o.get("brand"), o.get("title")) for o in new}
-          ok = {(o.get("brand"), o.get("title")) for o in prev}
-          added = [b for b in new if (b["brand"], b["title"]) in (nk-ok)]
-          removed = [b for b in prev if (b["brand"], b["title"]) in (ok-nk)]
-          if not added and not removed: raise SystemExit(0)
-          def fmt(items, sign):
-              return "\n".join(f"{sign} **{(i.get('brand') or 'Unknown')}** — {i.get('title') or ''}" for i in items[:20])
-          content = "**McArthurGlen Offers – Changes**\n" + (fmt(added,"+")+"\n" if added else "") + (fmt(removed,"-") if removed else "")
-          content = content[:1900]
-          r = requests.post(url, json={"content": content})
-          try: r.raise_for_status()
-          except Exception as e: print("Discord post failed:", e, "status=", r.status_code, "body=", r.text)
-          PY
