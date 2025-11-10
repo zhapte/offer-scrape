@@ -2,6 +2,7 @@ name: Daily McArthurGlen Offers
 
 on:
   schedule:
+    # 17:00 UTC = 09:00 Vancouver (standard time). Adjust as needed.
     - cron: "0 17 * * *"
   workflow_dispatch:
 
@@ -9,7 +10,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write   # allow committing CSV/JSON back to the repo
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,10 +20,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # ensure requests is available for Discord step
+          pip install requests
           python -m playwright install chromium
 
       - name: Run scraper
@@ -31,13 +34,15 @@ jobs:
         env:
           PLAYWRIGHT_BROWSERS_PATH: ~/.cache/ms-playwright
 
-      - name: Upload run artifacts
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: offers-output
           path: |
             offers_latest.csv
             offers_latest.json
+            offers_latest.prev.json
+          if-no-files-found: ignore
 
       - name: Commit CSV/JSON to repo
         run: |
@@ -45,4 +50,45 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add offers_latest.csv offers_latest.json offers_latest.prev.json || true
           git commit -m "Daily scrape: $(date -u '+%Y-%m-%d %H:%M:%S') UTC" || echo "No changes to commit"
-          git push
+          git push || true
+
+      - name: Notify Discord (diff only)
+        if: always()
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python - << 'PY'
+          import os, json, requests, pathlib
+          url = os.environ.get("DISCORD_WEBHOOK")
+          if not url:
+              raise SystemExit(0)  # no webhook configured
+          p_new = pathlib.Path("offers_latest.json")
+          p_prev = pathlib.Path("offers_latest.prev.json")
+          if not p_new.exists():
+              raise SystemExit(0)
+          new = json.loads(p_new.read_text(encoding="utf-8"))
+          prev = json.loads(p_prev.read_text(encoding="utf-8")) if p_prev.exists() else []
+          nk = {(o.get("brand"), o.get("title")) for o in new}
+          ok = {(o.get("brand"), o.get("title")) for o in prev}
+          added = [b for b in new if (b["brand"], b["title"]) in (nk-ok)]
+          removed = [b for b in prev if (b["brand"], b["title"]) in (ok-nk)]
+          if not added and not removed:
+              raise SystemExit(0)
+          def fmt(items, sign):
+              lines = []
+              for i in items[:20]:
+                  t = i.get("title") or ""
+                  b = i.get("brand") or "Unknown"
+                  lines.append(f"{sign} **{b}** — {t}")
+              return "\n".join(lines)
+          content = "**McArthurGlen Offers – Changes**\n"
+          if added: content += fmt(added, "+") + "\n"
+          if removed: content += fmt(removed, "-")
+          # Trim to Discord limit
+          content = content[:1900]
+          r = requests.post(url, json={"content": content})
+          try:
+              r.raise_for_status()
+          except Exception as e:
+              print("Discord post failed:", e, "status=", r.status_code, "body=", r.text)
+          PY
