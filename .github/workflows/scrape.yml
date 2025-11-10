@@ -2,7 +2,7 @@ name: Daily McArthurGlen Offers
 
 on:
   schedule:
-    - cron: "0 17 * * *"  # 09:00 Vancouver (PST). Adjust as needed.
+    - cron: "0 17 * * *"   # 09:00 Vancouver (PST). Adjust as needed.
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
+    env:
+      # Make sure Playwright uses an absolute path, not "~"
+      PLAYWRIGHT_BROWSERS_PATH: $HOME/.cache/ms-playwright
+      TZ: America/Vancouver
+      PYTHONUNBUFFERED: "1"
 
     steps:
       - name: Checkout
@@ -25,19 +31,14 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install "playwright==1.*"; fi
           pip install requests
-      # 👉 Playwright needs Linux system libs in CI:
+
       - name: Install Playwright browsers + Linux deps
         run: |
           python -m playwright install chromium
           python -m playwright install-deps
 
       - name: Run scraper
-        env:
-          PLAYWRIGHT_BROWSERS_PATH: ~/.cache/ms-playwright
-          TZ: America/Vancouver
-          PYTHONUNBUFFERED: "1"
         run: |
-          set -e
           python offer.py --timeout 90000
 
       - name: Upload artifacts (even on failure)
@@ -53,7 +54,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Commit CSV/JSON to repo
-        if: success()   # only commit on successful scrape
+        if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -62,7 +63,7 @@ jobs:
           git push || true
 
       - name: Notify Discord (diff only)
-        if: success()   # only ping when scrape worked
+        if: success()
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
