@@ -38,7 +38,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           set -e
-          python mcarthurglen_offers_playwright_v2.py --timeout 90000
+          python offer.py --timeout 90000
 
       - name: Upload artifacts (even on failure)
         if: always()
