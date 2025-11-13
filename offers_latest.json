@@ -7,25 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 60,
-    "title": "Almost Everything 40-60% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Hatley",
     "discount_percent": 60,
     "title": "Up to 60% off*",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
-  },
-  {
-    "brand": "La Senza",
-    "discount_percent": 60,
-    "title": "Clearance 60% off*",
-    "categories": "Lingerie & Underwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/la-senza/"
   },
   {
     "brand": "Banana Republic",
@@ -35,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Calvin Klein",
-    "discount_percent": 50,
-    "title": "Up to 50% off entire store + 20% off entire purchase*",
-    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
-  },
-  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
@@ -49,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
-    "brand": "Karl Lagerfeld",
+    "brand": "La Vie en Rose",
     "discount_percent": 50,
-    "title": "Enjoy Up to 50% Off at Karl Lagerfeld Paris!*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+    "title": "Up to 50% off*",
+    "categories": "Gifting , Lingerie & Underwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/la-vie-en-rose/"
   },
   {
     "brand": "Burberry",
@@ -63,10 +42,31 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
   },
   {
-    "brand": "Cole Haan",
-    "discount_percent": 40,
-    "title": "40% - 60% off almost everything*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/cole-haan/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "Buy 3, Get the 4th Free on Select Holiday Items*",
+    "categories": "Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Max Mara",
+    "discount_percent": null,
+    "title": "Switch On Exclusive Offer",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+  },
+  {
+    "brand": "Mountain Warehouse",
+    "discount_percent": null,
+    "title": "Black Friday Deals on Now - $14.99 Fleece*",
+    "categories": "Accessories & Bags, Children, Clothing, Footwear, Sportswear, Childrenswear, Outdoors, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mountain-warehouse/"
   }
 ]
