@@ -28,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "ENTIRE STORE UP TO 50% OFF*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
+  },
+  {
     "brand": "La Vie en Rose",
     "discount_percent": 50,
     "title": "Up to 50% off*",
@@ -61,12 +68,5 @@
     "title": "Switch On Exclusive Offer",
     "categories": "Luxury, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
-  },
-  {
-    "brand": "Mountain Warehouse",
-    "discount_percent": null,
-    "title": "Black Friday Deals on Now - $14.99 Fleece*",
-    "categories": "Accessories & Bags, Children, Clothing, Footwear, Sportswear, Childrenswear, Outdoors, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mountain-warehouse/"
   }
 ]
