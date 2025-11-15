@@ -42,13 +42,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/la-vie-en-rose/"
   },
   {
-    "brand": "Burberry",
-    "discount_percent": 40,
-    "title": "40% off* Bags and Wallets",
-    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off your entire purchase*",
@@ -63,10 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "Max Mara",
+    "brand": "Mountain Warehouse",
     "discount_percent": null,
-    "title": "Switch On Exclusive Offer",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+    "title": "Black Friday Deals on Now - $14.99 Fleece*",
+    "categories": "Accessories & Bags, Children, Clothing, Footwear, Sportswear, Childrenswear, Outdoors, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mountain-warehouse/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": null,
+    "title": "Make it perfectly theirs at Pandora",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
   }
 ]
