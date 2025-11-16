@@ -35,11 +35,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
   },
   {
-    "brand": "La Vie en Rose",
+    "brand": "Psycho Bunny",
     "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Gifting , Lingerie & Underwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/la-vie-en-rose/"
+    "title": "Buy one get one 50% off*",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": 40,
+    "title": "Up to 40% off store wide*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Jimmy Choo",
@@ -54,13 +61,6 @@
     "title": "Buy 3, Get the 4th Free on Select Holiday Items*",
     "categories": "Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "Mountain Warehouse",
-    "discount_percent": null,
-    "title": "Black Friday Deals on Now - $14.99 Fleece*",
-    "categories": "Accessories & Bags, Children, Clothing, Footwear, Sportswear, Childrenswear, Outdoors, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mountain-warehouse/"
   },
   {
     "brand": "Pandora",
