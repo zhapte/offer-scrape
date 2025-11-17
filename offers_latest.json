@@ -1,17 +1,17 @@
 [
   {
-    "brand": "Kate Spade",
+    "brand": "Fossil",
     "discount_percent": 70,
-    "title": "Shop up to 70% off everything, plus get an extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Save up to 70% off*",
+    "categories": "Accessories & Bags, Gifting , Jewellery & Watches, Bags & Small Leather Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/Fossiloffer/"
   },
   {
-    "brand": "Hatley",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
+    "brand": "BOSS",
+    "discount_percent": 50,
+    "title": "Black Friday - Up to 50% off*",
+    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
   },
   {
     "brand": "Banana Republic",
@@ -19,6 +19,13 @@
     "title": "50% off everything*",
     "categories": "Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
+  },
+  {
+    "brand": "Calvin Klein",
+    "discount_percent": 50,
+    "title": "Up to 50% off entire store + 20% off entire purchase*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
   },
   {
     "brand": "Columbia",
@@ -35,38 +42,31 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
   },
   {
-    "brand": "Psycho Bunny",
+    "brand": "adidas",
     "discount_percent": 50,
-    "title": "Buy one get one 50% off*",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+    "title": "Up to 50% off",
+    "categories": "Children, Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Pandora",
+    "brand": "Burberry",
     "discount_percent": 40,
-    "title": "Up to 40% off store wide*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "title": "40% off* Bags and Wallets",
+    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+    "brand": "Browns",
+    "discount_percent": 25,
+    "title": "Extra 25% off*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "Buy 3, Get the 4th Free on Select Holiday Items*",
-    "categories": "Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Make it perfectly theirs at Pandora",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
+    "brand": "Harry Rosen",
+    "discount_percent": 25,
+    "title": "Enjoy up to an extra 25% off your purchase of already reduced styles*",
+    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   }
 ]
