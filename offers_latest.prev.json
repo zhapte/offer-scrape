@@ -1,17 +1,10 @@
 [
   {
-    "brand": "Fossil",
+    "brand": "Armani Exchange",
     "discount_percent": 70,
-    "title": "Save up to 70% off*",
-    "categories": "Accessories & Bags, Gifting , Jewellery & Watches, Bags & Small Leather Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/Fossiloffer/"
-  },
-  {
-    "brand": "Hatley",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
+    "title": "Up to 70% off*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani-exchange/"
   },
   {
     "brand": "BOSS",
@@ -19,6 +12,13 @@
     "title": "Black Friday - Up to 50% off*",
     "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
+  },
+  {
+    "brand": "Banana Republic",
+    "discount_percent": 50,
+    "title": "50% off everything*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
     "brand": "Calvin Klein",
@@ -44,9 +44,23 @@
   {
     "brand": "Burberry",
     "discount_percent": 40,
-    "title": "40% off* Bags and Wallets",
+    "title": "40% off* Outerwear",
     "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
+  },
+  {
+    "brand": "Carter's",
+    "discount_percent": 40,
+    "title": "Up to 40% off*",
+    "categories": "Children, Clothing, Childrenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
+  },
+  {
+    "brand": "Cole Haan",
+    "discount_percent": 40,
+    "title": "40% - 60% off almost everything*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/cole-haan/"
   },
   {
     "brand": "Browns",
@@ -54,19 +68,5 @@
     "title": "Extra 25% off*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
-  },
-  {
-    "brand": "Harry Rosen",
-    "discount_percent": 25,
-    "title": "Enjoy up to an extra 25% off your purchase of already reduced styles*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   }
 ]
