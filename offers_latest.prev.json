@@ -21,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Calvin Klein",
-    "discount_percent": 50,
-    "title": "Up to 50% off entire store + 20% off entire purchase*",
-    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
-  },
-  {
     "brand": "Carter's",
     "discount_percent": 50,
     "title": "Up to 50% off*",
@@ -40,6 +33,13 @@
     "title": "Up to 50% off",
     "categories": "Children, Clothing, Footwear, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+  },
+  {
+    "brand": "ALDO",
+    "discount_percent": 40,
+    "title": "40% off your 2nd item*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
     "brand": "All Saints",
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
   },
   {
-    "brand": "Cole Haan",
-    "discount_percent": 40,
-    "title": "40% - 60% off almost everything*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/cole-haan/"
-  },
-  {
     "brand": "Browns",
     "discount_percent": 25,
     "title": "Extra 25% off*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
+  },
+  {
+    "brand": "Coach",
+    "discount_percent": 25,
+    "title": "Extra 25% off select styles*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
   }
 ]
