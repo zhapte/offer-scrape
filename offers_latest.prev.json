@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
-    "brand": "adidas",
-    "discount_percent": 50,
-    "title": "Up to 50% off",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
-  },
-  {
     "brand": "ALDO",
     "discount_percent": 40,
     "title": "40% off your 2nd item*",
@@ -54,6 +47,13 @@
     "title": "40% off wool outerwear* | 40% off bags, wallets, hats* | 40% off men's puffers",
     "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
+  },
+  {
+    "brand": "Cole Haan",
+    "discount_percent": 40,
+    "title": "40% - 60% off almost everything*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/cole-haan/"
   },
   {
     "brand": "Browns",
