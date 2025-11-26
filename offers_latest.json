@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Aritzia",
+    "discount_percent": 70,
+    "title": "Up to 70% off everything*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aritzia/"
+  },
+  {
     "brand": "Armani Exchange",
     "discount_percent": 70,
     "title": "Up to 70% off*",
@@ -61,12 +68,5 @@
     "title": "Extra 25% off*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
-  },
-  {
-    "brand": "Coach",
-    "discount_percent": 25,
-    "title": "Extra 25% off select styles*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
   }
 ]
