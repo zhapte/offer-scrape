@@ -1,5 +1,12 @@
 [
   {
+    "brand": "ALDO",
+    "discount_percent": 70,
+    "title": "Up to 70% off*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
+  },
+  {
     "brand": "Aritzia",
     "discount_percent": 70,
     "title": "Up to 70% off everything*",
@@ -28,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Carter's",
+    "brand": "Calvin Klein",
     "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Children, Clothing, Childrenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
+    "title": "Up to 50% off entire store + 20% off entire purchase*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
   },
   {
     "brand": "adidas",
@@ -40,13 +47,6 @@
     "title": "Up to 50% off",
     "categories": "Children, Clothing, Footwear, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
-  },
-  {
-    "brand": "ALDO",
-    "discount_percent": 40,
-    "title": "40% off your 2nd item*",
-    "categories": "Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
     "brand": "All Saints",
