@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "BOSS",
-    "discount_percent": 50,
-    "title": "Black Friday - Up to 50% off*",
-    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
-  },
-  {
     "brand": "Banana Republic",
     "discount_percent": 50,
     "title": "50% off everything*",
@@ -47,6 +40,13 @@
     "title": "Up to 50% off entire store + 20% off entire purchase*",
     "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
+  },
+  {
+    "brand": "Carter's",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Children, Clothing, Childrenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
     "brand": "All Saints",
