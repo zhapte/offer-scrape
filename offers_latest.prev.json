@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Shop up to 70% off everything + an extra 20% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
@@ -54,13 +61,6 @@
     "title": "Enjoy 20% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Moose Knuckles",
-    "discount_percent": 10,
-    "title": "Additional 10% off*",
-    "categories": "Luxury, Children, Outerwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/moose-knuckles/"
   },
   {
     "brand": "Pandora",
