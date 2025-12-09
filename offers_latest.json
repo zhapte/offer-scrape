@@ -42,13 +42,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": 40,
-    "title": "Up to 40% off on select Novelty items, including our premium gift boxes*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "Pandora",
     "discount_percent": 30,
     "title": "Gift sets now 30% off at Pandora",
@@ -61,6 +54,13 @@
     "title": "Enjoy 20% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": null,
+    "title": "Make it perfectly theirs at Pandora",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
   },
   {
     "brand": "Pandora",
