@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Shop up to 70% off everything + an extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
@@ -28,18 +21,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
+    "brand": "Psycho Bunny",
+    "discount_percent": 50,
+    "title": "Buy one get one 50% off*",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
     "brand": "ALDO",
     "discount_percent": 40,
     "title": "Buy One, Get One 40% Off*",
     "categories": "Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
-  },
-  {
-    "brand": "Gap",
-    "discount_percent": 40,
-    "title": "Everything 40% - 60% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Pandora",
@@ -68,5 +61,12 @@
     "title": "Free bracelet with your purchase* - Our gift to you!",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "Puma",
+    "discount_percent": null,
+    "title": "Free Duffle Bag*",
+    "categories": "Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/puma/"
   }
 ]
