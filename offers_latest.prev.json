@@ -42,6 +42,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora3/"
   },
   {
+    "brand": "Samsonite",
+    "discount_percent": 30,
+    "title": "30% off* COMPANION BAGS",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+  },
+  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off your entire purchase*",
@@ -61,12 +68,5 @@
     "title": "Free bracelet with your purchase* - Our gift to you!",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
-    "brand": "Puma",
-    "discount_percent": null,
-    "title": "Free Duffle Bag*",
-    "categories": "Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/puma/"
   }
 ]
