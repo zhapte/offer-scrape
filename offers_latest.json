@@ -1,5 +1,33 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Get up to 70% off everything, plus take an extra 25% off last-minute gifts*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+  },
+  {
+    "brand": "Marc Jacobs",
+    "discount_percent": 70,
+    "title": "Up to 70% off*",
+    "categories": "Accessories & Bags, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/marc-jacobs/"
+  },
+  {
+    "brand": "Michael Kors",
+    "discount_percent": 70,
+    "title": "Up to 70% off + extra 20% off*",
+    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 60,
+    "title": "UP TO 60% OFF THE ENTIRE STORE!*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
+  },
+  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
@@ -21,13 +49,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Psycho Bunny",
-    "discount_percent": 50,
-    "title": "Buy one get one 50% off*",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
     "brand": "ALDO",
     "discount_percent": 40,
     "title": "Buy One, Get One 40% Off*",
@@ -35,38 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
-    "brand": "Pandora",
+    "brand": "Lindt",
     "discount_percent": 30,
-    "title": "Gift sets now 30% off at Pandora",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora3/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "30% off* COMPANION BAGS",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "title": "Save up to 30% on boxes!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off your entire purchase*",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Make it perfectly theirs at Pandora",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Free bracelet with your purchase* - Our gift to you!",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   }
 ]
