@@ -7,20 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   },
   {
-    "brand": "Marc Jacobs",
-    "discount_percent": 70,
-    "title": "Up to 70% off*",
-    "categories": "Accessories & Bags, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/marc-jacobs/"
-  },
-  {
-    "brand": "Michael Kors",
-    "discount_percent": 70,
-    "title": "Up to 70% off + extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": 60,
     "title": "UP TO 60% OFF THE ENTIRE STORE!*",
@@ -28,11 +14,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
   },
   {
+    "brand": "Lacoste",
+    "discount_percent": 60,
+    "title": "Up to 60% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
+  },
+  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
     "categories": "Children, Clothing, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 50,
+    "title": "Everything 50% - 70% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Harry Rosen",
