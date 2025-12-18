@@ -2,16 +2,9 @@
   {
     "brand": "Kate Spade",
     "discount_percent": 70,
-    "title": "Get up to 70% off everything, plus take an extra 25% off last-minute gifts*",
+    "title": "Up to 70% off everything, plus an extra 25% off*",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
-  },
-  {
-    "brand": "Michael Kors",
-    "discount_percent": 70,
-    "title": "Up to 70% off + extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
   },
   {
     "brand": "Harry Rosen",
@@ -21,11 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
-    "brand": "Lacoste",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
+    "brand": "Banana Republic",
+    "discount_percent": 50,
+    "title": "50% off everything*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
     "brand": "Columbia",
@@ -42,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "UP TO 50% OFF STOREWIDE*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
+  },
+  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off retail price on the Longines Record collection*",
@@ -49,18 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
+    "brand": "ecco",
+    "discount_percent": 50,
+    "title": "50% off*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
     "brand": "ALDO",
     "discount_percent": 40,
     "title": "Buy One, Get One 40% Off*",
     "categories": "Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 30,
-    "title": "Save up to 30% on boxes!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Jimmy Choo",
