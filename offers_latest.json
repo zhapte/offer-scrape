@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/Fossiloffer/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off everything, plus an extra 25% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
-  },
-  {
     "brand": "Harry Rosen",
     "discount_percent": 60,
     "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
@@ -54,6 +47,13 @@
     "title": "UP TO 50% OFF STOREWIDE*",
     "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
+  },
+  {
+    "brand": "Hatley",
+    "discount_percent": 50,
+    "title": "50% off entire store*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
   },
   {
     "brand": "Hour Passion",
