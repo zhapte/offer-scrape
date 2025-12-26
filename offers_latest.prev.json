@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Up to 70% off*",
-    "categories": "Accessories & Bags, Gifting , Jewellery & Watches, Bags & Small Leather Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/Fossiloffer/"
+    "brand": "Gap",
+    "discount_percent": 75,
+    "title": "Great Gap Sale Up to 75% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Calvin Klein",
@@ -12,6 +12,13 @@
     "title": "Up to 60% off entire store + 20% off entire purchase*",
     "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
+  },
+  {
+    "brand": "Harry Rosen",
+    "discount_percent": 60,
+    "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
+    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "adidas",
@@ -23,16 +30,9 @@
   {
     "brand": "BOSS",
     "discount_percent": 50,
-    "title": "Black Friday - Up to 50% off*",
+    "title": "Boxing Week - Up to 50% off*",
     "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
-  },
-  {
-    "brand": "Banana Republic",
-    "discount_percent": 50,
-    "title": "50% off everything*",
-    "categories": "Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
     "brand": "Columbia",
