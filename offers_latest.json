@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Gap",
-    "discount_percent": 75,
-    "title": "Great Gap Sale Up to 75% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "brand": "ALDO",
+    "discount_percent": 70,
+    "title": "Boxing Week Up to 70% Off*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
     "brand": "Calvin Klein",
@@ -14,18 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": 60,
-    "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
     "brand": "adidas",
     "discount_percent": 60,
     "title": "60% off*",
     "categories": "Children, Clothing, Footwear, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+  },
+  {
+    "brand": "Aritzia",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aritzia/"
   },
   {
     "brand": "BOSS",
@@ -35,18 +35,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
   },
   {
-    "brand": "Columbia",
+    "brand": "Banana Republic",
     "discount_percent": 50,
-    "title": "Shop Outerwear up to 50% off*",
-    "categories": "Children, Clothing, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
+    "title": "50% off everything*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "ecco",
+    "brand": "Burberry",
     "discount_percent": 50,
-    "title": "50% off*",
-    "categories": "Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+    "title": "50% off wool outerwear* | 40% off bags, wallets, hats* | 40% off men's puffers",
+    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
+  },
+  {
+    "brand": "All Saints",
+    "discount_percent": 40,
+    "title": "Extra 40% off*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/allsaints/"
   },
   {
     "brand": "Browns",
@@ -56,17 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
   },
   {
-    "brand": "Diesel",
-    "discount_percent": 20,
-    "title": "Spend $250 and save 20% off select styles*",
-    "categories": "Accessories & Bags, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel-offer-price/"
-  },
-  {
-    "brand": "crocs",
-    "discount_percent": null,
-    "title": "Buy one, get one free*",
-    "categories": "Children, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+    "brand": "Coach",
+    "discount_percent": 25,
+    "title": "Extra 25% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
   }
 ]
