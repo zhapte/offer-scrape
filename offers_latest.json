@@ -1,24 +1,10 @@
 [
   {
-    "brand": "Gap",
-    "discount_percent": 75,
-    "title": "Great Gap Sale Up to 75% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Calvin Klein",
+    "brand": "Harry Rosen",
     "discount_percent": 60,
-    "title": "Up to 60% off entire store + 20% off entire purchase*",
-    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 60,
-    "title": "END OF SEASON EVENT — UP TO 60% OFF*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+    "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
+    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "adidas",
@@ -28,13 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "BOSS",
-    "discount_percent": 50,
-    "title": "Boxing Week - Up to 50% off*",
-    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
-  },
-  {
     "brand": "Columbia",
     "discount_percent": 50,
     "title": "Shop Outerwear up to 50% off*",
@@ -42,31 +21,52 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
-    "brand": "ecco",
+    "brand": "Hatley",
     "discount_percent": 50,
-    "title": "50% off*",
-    "categories": "Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+    "title": "50% off entire store*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
   },
   {
-    "brand": "Browns",
-    "discount_percent": 25,
-    "title": "Extra 25% off*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/browns/"
+    "brand": "Hour Passion",
+    "discount_percent": 50,
+    "title": "Enjoy 50% off retail price on the Longines Record collection*",
+    "categories": "Luxury, Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Diesel",
-    "discount_percent": 20,
-    "title": "Spend $250 and save 20% off select styles*",
-    "categories": "Accessories & Bags, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel-offer-price/"
+    "brand": "Lindt",
+    "discount_percent": 50,
+    "title": "Save up to 50% off Lindt Novelty Items!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "crocs",
-    "discount_percent": null,
-    "title": "Buy one, get one free*",
-    "categories": "Children, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+    "brand": "Max Mara",
+    "discount_percent": 50,
+    "title": "Up to 50% off with new markdowns added, plus up to an extra 15% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara2/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": 50,
+    "title": "SALE: Up to 50% off",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
+  },
+  {
+    "brand": "Plenty",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
+  },
+  {
+    "brand": "Polo Ralph Lauren",
+    "discount_percent": 40,
+    "title": "40% off all apparel*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/polo-ralph-lauren/"
   }
 ]
