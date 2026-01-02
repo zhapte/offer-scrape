@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off *everything*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+  },
+  {
     "brand": "Harry Rosen",
     "discount_percent": 60,
     "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
@@ -14,25 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Columbia",
-    "discount_percent": 50,
-    "title": "Shop Outerwear up to 50% off*",
-    "categories": "Children, Clothing, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
-  },
-  {
     "brand": "Hatley",
     "discount_percent": 50,
     "title": "50% off entire store*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
-  },
-  {
-    "brand": "Hour Passion",
-    "discount_percent": 50,
-    "title": "Enjoy 50% off retail price on the Longines Record collection*",
-    "categories": "Luxury, Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
     "brand": "Lindt",
@@ -68,5 +61,12 @@
     "title": "40% off all apparel*",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/polo-ralph-lauren/"
+  },
+  {
+    "brand": "Ports 1961",
+    "discount_percent": 10,
+    "title": "Extra 10% off all transactions*",
+    "categories": "Clothing, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ports-1961/"
   }
 ]
