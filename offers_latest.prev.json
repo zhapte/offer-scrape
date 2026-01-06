@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": 60,
-    "title": "Enjoy up to 60% off plus an extra 25% off your purchase*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": 60,
     "title": "Up to 60% OFF Canadian-designed Duvet Covers*",
@@ -21,25 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
-    "brand": "adidas",
+    "brand": "Under Armour",
     "discount_percent": 60,
-    "title": "60% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
-  },
-  {
-    "brand": "Hatley",
-    "discount_percent": 50,
-    "title": "50% off entire store*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hatley/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 50,
-    "title": "Save up to 50% off Lindt Novelty Items!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "50-60% Off Entire Store at Under Armour",
+    "categories": "Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
   },
   {
     "brand": "Pandora",
@@ -56,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
   },
   {
+    "brand": "adidas",
+    "discount_percent": 50,
+    "title": "50% off*",
+    "categories": "Children, Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+  },
+  {
     "brand": "Samsonite",
     "discount_percent": 40,
     "title": "Up To 40% off* Storewide",
@@ -68,5 +54,19 @@
     "title": "Enjoy an extra 20% off*",
     "categories": "Children, Clothing, Childrenswear, Menswear, Womenswear, Black Friday",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/roots/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": 15,
+    "title": "Buy 6 products and get an extra 15% OFF YOUR PURCHASE*",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store6/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "LINDOR Bags 2 for $20!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   }
 ]
