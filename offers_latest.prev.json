@@ -14,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
-    "brand": "Under Armour",
-    "discount_percent": 60,
-    "title": "50-60% Off Entire Store at Under Armour",
-    "categories": "Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
+    "brand": "BOSS",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
+  },
+  {
+    "brand": "Banana Republic",
+    "discount_percent": 50,
+    "title": "50% off everything*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
     "brand": "Pandora",
@@ -42,13 +49,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 40,
-    "title": "Up To 40% off* Storewide",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite2/"
-  },
-  {
     "brand": "Roots",
     "discount_percent": 20,
     "title": "Enjoy an extra 20% off*",
@@ -56,11 +56,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/roots/"
   },
   {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": 15,
-    "title": "Buy 6 products and get an extra 15% OFF YOUR PURCHASE*",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store6/"
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "20% off RESTACKD*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Lindt",
