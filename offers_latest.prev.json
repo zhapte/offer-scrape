@@ -1,17 +1,17 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off *everything*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+    "brand": "Gap",
+    "discount_percent": 75,
+    "title": "Great Gap Sale Up to 75% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "QE Home",
+    "brand": "Guess",
     "discount_percent": 60,
-    "title": "Up to 60% OFF Canadian-designed Duvet Covers*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "title": "END OF SEASON EVENT — UP TO 60% OFF*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "BOSS",
@@ -35,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
   },
   {
-    "brand": "Plenty",
+    "brand": "QE Home",
     "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
+    "title": "Save up to $80 on duvets, and BOGO 50% OFF mix & match pillows & protectors*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "adidas",
@@ -49,18 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Roots",
-    "discount_percent": 20,
-    "title": "Enjoy an extra 20% off*",
-    "categories": "Children, Clothing, Childrenswear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/roots/"
+    "brand": "Pandora",
+    "discount_percent": 40,
+    "title": "Heartfelt gifts, ready to give, up to 40% off*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
-    "brand": "Samsonite",
+    "brand": "Jimmy Choo",
     "discount_percent": 20,
-    "title": "20% off RESTACKD*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "title": "20% off entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Lindt",
