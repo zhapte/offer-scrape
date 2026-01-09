@@ -7,6 +7,20 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Oak + Fort",
+    "discount_percent": 70,
+    "title": "Up to 70% off*",
+    "categories": "Accessories & Bags, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/oak--fort/"
+  },
+  {
     "brand": "Guess",
     "discount_percent": 60,
     "title": "END OF SEASON EVENT — UP TO 60% OFF*",
@@ -28,20 +42,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 50,
-    "title": "SALE: Up to 50% off",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 50,
-    "title": "Save up to $80 on duvets, and BOGO 50% OFF mix & match pillows & protectors*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "adidas",
     "discount_percent": 50,
     "title": "50% off*",
@@ -49,11 +49,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 40,
-    "title": "Heartfelt gifts, ready to give, up to 40% off*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "brand": "ecco",
+    "discount_percent": 50,
+    "title": "50% off*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
     "brand": "Jimmy Choo",
