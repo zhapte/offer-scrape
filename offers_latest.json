@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Gap",
-    "discount_percent": 75,
-    "title": "Great Gap Sale Up to 75% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Enjoy up to 70% off at Karl Lagerfeld Paris",
@@ -28,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "BOSS",
-    "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
-  },
-  {
     "brand": "Banana Republic",
     "discount_percent": 50,
     "title": "50% off everything*",
@@ -42,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "adidas",
+    "brand": "QE Home",
     "discount_percent": 50,
-    "title": "50% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+    "title": "Save up to $80 on duvets, and BOGO 50% OFF mix & match pillows & protectors*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "ecco",
@@ -56,6 +42,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
+    "brand": "Pandora",
+    "discount_percent": 40,
+    "title": "Heartfelt gifts, ready to give, up to 40% off*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+  },
+  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "20% off entire purchase*",
@@ -63,10 +56,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "LINDOR Bags 2 for $20!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "20% off RESTACKD*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   }
 ]
