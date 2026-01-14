@@ -1,24 +1,10 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Oak + Fort",
     "discount_percent": 70,
     "title": "Up to 70% off*",
     "categories": "Accessories & Bags, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/oak--fort/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 60,
-    "title": "END OF SEASON EVENT — UP TO 60% OFF*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Banana Republic",
@@ -61,6 +47,20 @@
     "title": "20% off RESTACKD*",
     "categories": "Accessories & Bags",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
+    "title": "Give a Little Love",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
+    "title": "The Long Weekend Sale",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
     "brand": "Lindt",
