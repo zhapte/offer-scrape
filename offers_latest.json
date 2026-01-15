@@ -7,18 +7,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/oak--fort/"
   },
   {
+    "brand": "Under Armour",
+    "discount_percent": 60,
+    "title": "Sale 40-60% Off Entire Store at Under Armour*",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
+  },
+  {
     "brand": "Banana Republic",
     "discount_percent": 50,
     "title": "50% off everything*",
     "categories": "Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 50,
-    "title": "Save up to $80 on duvets, and BOGO 50% OFF mix & match pillows & protectors*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Pandora",
@@ -33,13 +33,6 @@
     "title": "40% off footwear*",
     "categories": "Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "20% off entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Samsonite",
