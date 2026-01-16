@@ -1,17 +1,17 @@
 [
   {
+    "brand": "Fossil",
+    "discount_percent": 70,
+    "title": "Perfect for your valentine - up to 70% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
     "brand": "Oak + Fort",
     "discount_percent": 70,
     "title": "Up to 70% off*",
     "categories": "Accessories & Bags, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/oak--fort/"
-  },
-  {
-    "brand": "Under Armour",
-    "discount_percent": 60,
-    "title": "Sale 40-60% Off Entire Store at Under Armour*",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
   },
   {
     "brand": "Banana Republic",
@@ -26,6 +26,13 @@
     "title": "Heartfelt gifts, ready to give, up to 40% off*",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+  },
+  {
+    "brand": "Sunglass Hut",
+    "discount_percent": 40,
+    "title": "Buy one get three 40% off entire store *",
+    "categories": "Luxury, Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
   },
   {
     "brand": "ecco",
