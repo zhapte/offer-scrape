@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Gap",
+    "discount_percent": 75,
+    "title": "Great Gap Sale Up to 75% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
     "brand": "Fossil",
     "discount_percent": 70,
     "title": "Perfect for your valentine - up to 70% off*",
@@ -7,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Oak + Fort",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 70,
-    "title": "Up to 70% off*",
-    "categories": "Accessories & Bags, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/oak--fort/"
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 60,
+    "title": "Wrap-Up the Season — Up to 60% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Banana Republic",
@@ -21,20 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 40,
-    "title": "Heartfelt gifts, ready to give, up to 40% off*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
-  },
-  {
-    "brand": "Sunglass Hut",
-    "discount_percent": 40,
-    "title": "Buy one get three 40% off entire store *",
-    "categories": "Luxury, Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 40,
     "title": "40% off footwear*",
@@ -42,18 +42,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "20% off RESTACKD*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "brand": "Hugo's Churros & Tacos",
+    "discount_percent": null,
+    "title": "Hugo's Taco Fest ON NOW",
+    "categories": "Children, Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hugostacos/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Jimmy Choo",
     "discount_percent": null,
-    "title": "Give a Little Love",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
+    "title": "Jimmy Choo Sale",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Kate Spade",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
-    "brand": "Lindt",
+    "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "LINDOR Bags 2 for $20!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "Give a Little Love",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
   }
 ]
