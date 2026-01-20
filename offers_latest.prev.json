@@ -28,18 +28,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "Banana Republic",
-    "discount_percent": 50,
-    "title": "50% off everything*",
-    "categories": "Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
+    "brand": "QE Home",
+    "discount_percent": 60,
+    "title": "Clearance Sale Up to 60% OFF*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
-    "brand": "ecco",
+    "brand": "Pandora",
     "discount_percent": 40,
-    "title": "40% off footwear*",
-    "categories": "Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+    "title": "Heartfelt gifts, ready to give, up to 40% off*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Harry Rosen",
@@ -49,18 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Hugo's Churros & Tacos",
-    "discount_percent": null,
-    "title": "Hugo's Taco Fest ON NOW",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hugostacos/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": null,
     "title": "Jimmy Choo Sale",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
+    "title": "The Long Weekend Sale",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
     "brand": "Kate Spade",
