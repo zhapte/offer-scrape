@@ -14,20 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 60,
-    "title": "Wrap-Up the Season — Up to 60% Off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": 60,
     "title": "Clearance Sale Up to 60% OFF*",
@@ -40,6 +26,20 @@
     "title": "Heartfelt gifts, ready to give, up to 40% off*",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+  },
+  {
+    "brand": "Sunglass Hut",
+    "discount_percent": 40,
+    "title": "Buy one get three 40% off entire store *",
+    "categories": "Luxury, Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "20% off RESTACKD*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Harry Rosen",
@@ -58,15 +58,15 @@
   {
     "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "The Long Weekend Sale",
+    "title": "Give a Little Love",
     "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
   },
   {
     "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "Give a Little Love",
+    "title": "The Long Weekend Sale",
     "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   }
 ]
