@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Gap",
-    "discount_percent": 75,
-    "title": "Great Gap Sale Up to 75% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Fossil",
     "discount_percent": 70,
     "title": "Perfect for your valentine - up to 70% off*",
@@ -14,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "QE Home",
+    "brand": "Gap",
     "discount_percent": 60,
-    "title": "Clearance Sale Up to 60% OFF*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "title": "Almost Everything 30-60% Off!*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Pandora",
@@ -36,10 +29,10 @@
   },
   {
     "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "20% off RESTACKD*",
+    "discount_percent": 30,
+    "title": "30% off Freeform*",
     "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite2/"
   },
   {
     "brand": "Harry Rosen",
@@ -56,17 +49,24 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "QE Home",
     "discount_percent": null,
-    "title": "Give a Little Love",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade4/"
+    "title": "Valentine’s Day Sale On Now!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "The Cosmetics Company Store",
     "discount_percent": null,
-    "title": "The Long Weekend Sale",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+    "title": "Make Your Own Skincare Mocktail*",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "6 FOR $78 MAKEUP",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   }
 ]
