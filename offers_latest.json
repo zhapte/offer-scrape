@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Perfect for your valentine - up to 70% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 60,
     "title": "Almost Everything 30-60% Off!*",
@@ -61,6 +54,13 @@
     "title": "Make Your Own Skincare Mocktail*",
     "categories": "Beauty",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "Love Your Locks GWP",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
   },
   {
     "brand": "The Cosmetics Company Store",
