@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Denim Deal — Second Pair 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
     "brand": "Pandora",
     "discount_percent": 40,
     "title": "Heartfelt gifts, ready to give, up to 40% off*",
@@ -14,18 +21,32 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
-    "brand": "Sunglass Hut",
-    "discount_percent": 40,
-    "title": "Buy one get three 40% off entire store *",
-    "categories": "Luxury, Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
-  },
-  {
     "brand": "Samsonite",
     "discount_percent": 30,
     "title": "30% off Freeform*",
     "categories": "Accessories & Bags",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite2/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": 15,
+    "title": "Members save 15% off our Valentine's Assortment!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": 15,
+    "title": "Members save 15% off our Valentine's Assortment!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt2/"
+  },
+  {
+    "brand": "Burberry",
+    "discount_percent": null,
+    "title": "Burberry Sale",
+    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
   },
   {
     "brand": "Harry Rosen",
@@ -47,26 +68,5 @@
     "title": "Valentine’s Day Sale On Now!",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Make Your Own Skincare Mocktail*",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Love Your Locks GWP",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "6 FOR $78 MAKEUP",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   }
 ]
