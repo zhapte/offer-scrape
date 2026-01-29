@@ -14,6 +14,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
+    "brand": "Sunglass Hut",
+    "discount_percent": 40,
+    "title": "Buy one get three 40% off entire store *",
+    "categories": "Luxury, Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
+  },
+  {
     "brand": "Samsonite",
     "discount_percent": 30,
     "title": "30% off Freeform*",
@@ -61,12 +68,5 @@
     "title": "Let's Go*",
     "categories": "Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Valentine’s Day Sale On Now!",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   }
 ]
