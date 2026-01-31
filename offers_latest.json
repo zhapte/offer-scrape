@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Enjoy Up to 70% Off at Karl Lagerfeld Paris!*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 60,
     "title": "Almost Everything 30-60% Off!*",
@@ -12,20 +19,6 @@
     "title": "Heartfelt gifts, ready to give, up to 40% off*",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
-  },
-  {
-    "brand": "Sunglass Hut",
-    "discount_percent": 40,
-    "title": "Buy one get three 40% off entire store *",
-    "categories": "Luxury, Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "30% off Freeform*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite2/"
   },
   {
     "brand": "Lindt",
@@ -61,6 +54,13 @@
     "title": "Jimmy Choo Sale",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
+    "title": "New & on sale!*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Psycho Bunny",
