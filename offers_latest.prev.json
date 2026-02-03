@@ -21,20 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "30% off Freeform*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite2/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 20,
-    "title": "20% Off Valentine’s Day Silk*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "Burberry",
     "discount_percent": null,
     "title": "Burberry Sale",
@@ -58,9 +44,23 @@
   {
     "brand": "Kate Spade",
     "discount_percent": null,
+    "title": "Save on gifts!",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
     "title": "New & on sale!*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "Celebrate the Year of the Horse with Lindt!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Psycho Bunny",
