@@ -14,18 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Denim Days Event — Second Pair 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off retail price on the Hamilton JAZZMASTER, PAN-EUROP and RAILROAD collections*",
     "categories": "Luxury, Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": 40,
-    "title": "Heartfelt gifts, ready to give, up to 40% off*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Pandora",
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": null,
-    "title": "New & on sale!*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "Lindt",
     "discount_percent": null,
     "title": "Celebrate the Year of the Horse with Lindt!",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "Let's Go*",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   }
 ]
