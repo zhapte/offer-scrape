@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Fossil",
+    "discount_percent": 70,
+    "title": "Perfect for your valentine - up to 70% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Enjoy Up to 70% Off at Karl Lagerfeld Paris!*",
@@ -28,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 25,
-    "title": "25% off with purchase, with $125 spend!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+    "brand": "ecco",
+    "discount_percent": 40,
+    "title": "Buy one get one 40% off shoes*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
     "brand": "Harry Rosen",
@@ -61,12 +68,5 @@
     "title": "Celebrate the Year of the Horse with Lindt!",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "Psycho Bunny",
-    "discount_percent": null,
-    "title": "Let's Go*",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   }
 ]
