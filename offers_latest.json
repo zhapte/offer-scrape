@@ -14,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 60,
-    "title": "Almost Everything 30-60% Off!*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Shop big savings! Up to 70% off almost everything, plus an extra 20% off select styles.*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Seasonal Savings: Up to 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -28,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": 50,
-    "title": "50% OFF* Quilt Set",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 40,
     "title": "Buy one get one 40% off shoes*",
@@ -42,31 +42,31 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 25,
-    "title": "25% off with purchase, with $125 spend!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+    "brand": "Lindt",
+    "discount_percent": 30,
+    "title": "Celebrate Love with Lindt: 30% off Valentine's Day Items*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Jimmy Choo",
-    "discount_percent": null,
-    "title": "Jimmy Choo Sale",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Max Mara",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Limited Edition Gift With Purchase*",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara2/"
+    "title": "New Arrivals Up to 50$ Off*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Psycho Bunny",
+    "brand": "Lindt",
     "discount_percent": null,
-    "title": "Let's Go*",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+    "title": "Celebrate the Year of the Horse with Lindt!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt2/"
   }
 ]
