@@ -1,10 +1,24 @@
 [
   {
+    "brand": "Armani",
+    "discount_percent": 80,
+    "title": "40-80% Off Plus Spend and Save*",
+    "categories": "Luxury, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani/"
+  },
+  {
     "brand": "Fossil",
     "discount_percent": 70,
     "title": "Perfect for your valentine - up to 70% off*",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 70,
+    "title": "Almost Everything 40-70% Off!*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Karl Lagerfeld",
@@ -14,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 70,
-    "title": "Shop big savings! Up to 70% off almost everything, plus an extra 20% off select styles.*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Guess",
@@ -35,20 +49,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 40,
-    "title": "Buy one get one 40% off shoes*",
-    "categories": "Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 30,
-    "title": "Celebrate Love with Lindt: 30% off Valentine's Day Items*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 25,
     "title": "Enjoy 25% off your entire purchase*",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Lindt",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Celebrate the Year of the Horse with Lindt!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt2/"
+    "title": "EXTRA $50 OFF When You Spend $250+*",
+    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   }
 ]
