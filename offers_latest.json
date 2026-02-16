@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani/"
   },
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Perfect for your valentine - up to 70% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 70,
     "title": "Almost Everything 40-70% Off!*",
@@ -33,6 +26,13 @@
     "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
     "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Shop big savings! Up to 70% off almost everything, plus an extra 20% off select styles.*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Guess",
