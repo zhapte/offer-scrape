@@ -21,25 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Shop big savings! Up to 70% off almost everything, plus an extra 20% off select styles.*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Seasonal Savings: Up to 50% Off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -56,6 +42,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
+    "brand": "Kate Spade",
+    "discount_percent": 10,
+    "title": "Extra 10% off*",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
     "brand": "Harry Rosen",
     "discount_percent": null,
     "title": "New Arrivals Up to $50 Off*",
@@ -63,10 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Harry Rosen",
+    "brand": "Max Mara",
     "discount_percent": null,
-    "title": "EXTRA $50 OFF When You Spend $250+*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+    "title": "Ring in the Lunar New Year with Style and Abundance",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+  },
+  {
+    "brand": "Max Mara",
+    "discount_percent": null,
+    "title": "Limited Edition Gift With Purchase*",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara2/"
   }
 ]
