@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 70,
-    "title": "Almost Everything 40-70% Off!*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Enjoy Up to 70% Off at Karl Lagerfeld Paris!*",
@@ -42,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
+    "brand": "Pandora",
+    "discount_percent": 25,
+    "title": "25% off with purchase, with $125 spend!*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
     "brand": "Kate Spade",
     "discount_percent": 10,
     "title": "Extra 10% off*",
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Max Mara",
+    "brand": "Psycho Bunny",
     "discount_percent": null,
-    "title": "Ring in the Lunar New Year with Style and Abundance",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+    "title": "Let's Go*",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   },
   {
-    "brand": "Max Mara",
+    "brand": "Samsonite",
     "discount_percent": null,
-    "title": "Limited Edition Gift With Purchase*",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara2/"
+    "title": "Transform Your Travel",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   }
 ]
