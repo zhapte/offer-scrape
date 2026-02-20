@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Armani",
-    "discount_percent": 80,
-    "title": "40-80% Off Plus Spend and Save*",
-    "categories": "Luxury, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani/"
-  },
-  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Enjoy Up to 70% Off at Karl Lagerfeld Paris!*",
@@ -14,11 +7,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 70,
-    "title": "Shop big savings! Up to 70% off almost everything, plus an extra 20% off select styles.*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 60,
+    "title": "Almost Everything 30-60% Off!*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Up to 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -28,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Pandora",
     "discount_percent": 25,
     "title": "25% off with purchase, with $125 spend!*",
@@ -42,11 +42,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": 10,
-    "title": "Extra 10% off*",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": 15,
+    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Harry Rosen",
@@ -56,17 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Psycho Bunny",
+    "brand": "Lindt",
     "discount_percent": null,
-    "title": "Let's Go*",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": null,
-    "title": "Transform Your Travel",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "title": "Hop Into Easter: Lindt's Easter Collection is here",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   }
 ]
