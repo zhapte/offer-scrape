@@ -7,6 +7,20 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off new arrivals*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 60,
     "title": "Almost Everything 30-60% Off!*",
@@ -14,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Under Armour",
-    "discount_percent": 60,
-    "title": "Up to 40-60% off entire store*",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
+    "brand": "Hour Passion",
+    "discount_percent": 50,
+    "title": "Enjoy 50% off retail price on the LONGINES FLAGSHIP* collection",
+    "categories": "Luxury, Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
     "brand": "Jimmy Choo",
@@ -28,11 +42,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Pandora",
+    "brand": "Lindt",
+    "discount_percent": 25,
+    "title": "Buy 3 or More, Get 25% Off!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Harry Rosen",
     "discount_percent": 15,
-    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "title": "Extra 15% off Select Categories.*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
     "brand": "Fossil",
@@ -40,13 +61,6 @@
     "title": "Spring Green: A fresh look for our bestsellers",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "Hop Into Easter: Lindt's Easter Collection is here",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Pandora",
@@ -61,12 +75,5 @@
     "title": "Transform Your Travel",
     "categories": "Accessories & Bags",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Luxe Rewards Stacked",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   }
 ]
