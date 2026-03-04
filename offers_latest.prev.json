@@ -1,19 +1,5 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy Up to 70% Off at Karl Lagerfeld Paris!*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
-  },
-  {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off new arrivals*",
@@ -56,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Fossil",
-    "discount_percent": null,
-    "title": "Spring Green: A fresh look for our bestsellers",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+    "brand": "Pandora",
+    "discount_percent": 15,
+    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Pandora",
@@ -68,6 +54,13 @@
     "title": "Shine With a Little Extra Luck",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Get the matching pillow sham(s) for free*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Samsonite",
