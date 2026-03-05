@@ -14,6 +14,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Under Armour",
+    "discount_percent": 60,
+    "title": "Up to 40-60% off entire store*",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
+  },
+  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off retail price on the LONGINES FLAGSHIP* collection",
@@ -21,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+    "brand": "Samsonite",
+    "discount_percent": 30,
+    "title": "Up to 30% off storewide*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Lindt",
@@ -54,19 +61,5 @@
     "title": "Shine With a Little Extra Luck",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Get the matching pillow sham(s) for free*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": null,
-    "title": "Transform Your Travel",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   }
 ]
