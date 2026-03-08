@@ -14,6 +14,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Denim Days Event — Second Pair 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off retail price on the LONGINES FLAGSHIP* collection",
@@ -26,13 +33,6 @@
     "title": "Up to 30% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "Up to 30% off storewide*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Lindt",
@@ -61,5 +61,12 @@
     "title": "Shine With a Little Extra Luck",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Get the matching pillow sham(s) for free*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   }
 ]
