@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off, plus extra 25% off*",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 60,
     "title": "Almost Everything 30-60% Off!*",
@@ -35,18 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": 25,
-    "title": "Buy 3 or More, Get 25% Off!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "Harry Rosen",
     "discount_percent": 15,
-    "title": "Extra 15% off Select Categories.*",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
+    "title": "Extra 15% off Outerwear*",
+    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "Pandora",
