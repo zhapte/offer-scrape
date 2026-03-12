@@ -2,16 +2,16 @@
   {
     "brand": "Kate Spade",
     "discount_percent": 70,
-    "title": "Up to 70% off new arrivals*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
     "title": "Up to 70% off, plus extra 25% off*",
     "categories": "Accessories & Bags, Clothing, Gifting",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 60,
+    "title": "Almost Everything 40-60% Off!*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Hour Passion",
@@ -28,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "Up to 30% off storewide*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Harry Rosen",
@@ -42,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 15,
-    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "brand": "Columbia",
+    "discount_percent": null,
+    "title": "Fleece Now 2 for $60",
+    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Guess",
