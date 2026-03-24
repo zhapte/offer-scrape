@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off almost everything!*",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
     "brand": "Guess",
     "discount_percent": 50,
     "title": "Spring Essentials: Up to 50% Off Storewide*",
@@ -28,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": 15,
-    "title": "Extra 15% off Outerwear*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+    "brand": "Columbia",
+    "discount_percent": null,
+    "title": "Fleece Now 2 for $60",
+    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Columbia",
@@ -40,13 +47,6 @@
     "title": "Gear up with Rainwear",
     "categories": "Children, Clothing, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
-  },
-  {
-    "brand": "Columbia",
-    "discount_percent": null,
-    "title": "Fleece Now 2 for $60",
-    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Fossil",
