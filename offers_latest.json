@@ -1,19 +1,5 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off almost everything!*",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Spring Essentials: Up to 50% Off Storewide*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off retail price on the LONGINES FLAGSHIP* collection",
@@ -35,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Columbia",
-    "discount_percent": null,
-    "title": "Fleece Now 2 for $60",
-    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
+    "brand": "Pandora",
+    "discount_percent": 15,
+    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Columbia",
@@ -47,6 +33,13 @@
     "title": "Gear up with Rainwear",
     "categories": "Children, Clothing, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
+  },
+  {
+    "brand": "Columbia",
+    "discount_percent": null,
+    "title": "Fleece Now 2 for $60",
+    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Fossil",
@@ -68,5 +61,12 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "Vacation Mode is ON",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   }
 ]
