@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "hop up to 70% off new arrivals! Plus, get an extra 20% off select styles*",
+    "categories": "Accessories & Bags, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 50,
     "title": "Almost Everything 50% Off*",
@@ -14,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "crocs",
-    "discount_percent": 25,
-    "title": "25% off entire purchase*",
-    "categories": "Children, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Cole Haan",
@@ -47,13 +54,6 @@
     "title": "Free embossing with purchase*",
     "categories": "Accessories & Bags, Jewellery & Watches, Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
-    "brand": "Fossil",
-    "discount_percent": null,
-    "title": "Buy 1 for $119 or Buy 2 for $199*",
-    "categories": "Accessories & Bags, Gifting , Jewellery & Watches, Bags & Small Leather Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/Fossiloffer/"
   },
   {
     "brand": "Harry Rosen",
