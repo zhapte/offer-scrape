@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "hop up to 70% off new arrivals! Plus, get an extra 20% off select styles*",
-    "categories": "Accessories & Bags, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 50,
     "title": "Almost Everything 50% Off*",
@@ -19,6 +12,13 @@
     "title": "Seasonal Savings: Up to 50% Off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 40,
+    "title": "Enjoy up to 40% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Jimmy Choo",
