@@ -7,9 +7,16 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Gap",
+    "brand": "Guess",
     "discount_percent": 50,
-    "title": "Almost Everything 50% Off*",
+    "title": "Buy one, get one 50% off select styles*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 30,
+    "title": "Almost Everything 30% - 60% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
@@ -61,12 +68,5 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "Psycho Bunny",
-    "discount_percent": null,
-    "title": "Vacation Mode is ON",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   }
 ]
