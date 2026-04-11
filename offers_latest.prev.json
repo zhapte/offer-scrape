@@ -21,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 15,
-    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "brand": "Lindt",
+    "discount_percent": 20,
+    "title": "20% off Boxed Chocolates!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Columbia",
@@ -51,22 +51,22 @@
   {
     "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Up to an Extra $500 Off*",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
-  },
-  {
-    "brand": "Harry Rosen",
-    "discount_percent": null,
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Psycho Bunny",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Vacation Mode is ON",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+    "title": "Up to an Extra $500 Off*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
+  },
+  {
+    "brand": "Mackage",
+    "discount_percent": null,
+    "title": "Soles4Souls (S4S) Event",
+    "categories": "Luxury, Children, Clothing, Outerwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mackage/"
   }
 ]
