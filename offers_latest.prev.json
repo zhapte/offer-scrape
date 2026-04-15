@@ -7,16 +7,9 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 30,
-    "title": "Almost Everything 30% - 60% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off your entire purchase*",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
@@ -26,6 +19,13 @@
     "title": "20% off Boxed Chocolates!*",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": 15,
+    "title": "Buy 2 Charms, Get 15% Off Charms Bracelets*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Columbia",
