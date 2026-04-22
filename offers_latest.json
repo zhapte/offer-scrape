@@ -1,31 +1,10 @@
 [
   {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Buy one, get one 50% off select styles*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 40,
     "title": "Almost Everything 40% - 60% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 40,
-    "title": "Enjoy up to 40% off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "crocs",
@@ -35,11 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Columbia",
-    "discount_percent": null,
-    "title": "Fleece Now 2 for $60",
-    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Columbia",
@@ -47,6 +26,13 @@
     "title": "Gear up with Rainwear",
     "categories": "Children, Clothing, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
+  },
+  {
+    "brand": "Columbia",
+    "discount_percent": null,
+    "title": "Fleece Now 2 for $60",
+    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Fossil",
@@ -68,5 +54,19 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "Dubai 150g Bar: Buy 1 Get 1 FREE!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Mackage",
+    "discount_percent": null,
+    "title": "Soles4Souls (S4S) Event",
+    "categories": "Luxury, Children, Clothing, Outerwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mackage/"
   }
 ]
