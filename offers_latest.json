@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Buy one, get one 50% off select styles*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 40,
     "title": "Almost Everything 40% - 60% Off*",
@@ -61,12 +68,5 @@
     "title": "Dubai 150g Bar: Buy 1 Get 1 FREE!*",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "Mackage",
-    "discount_percent": null,
-    "title": "Soles4Souls (S4S) Event",
-    "categories": "Luxury, Children, Clothing, Outerwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mackage/"
   }
 ]
