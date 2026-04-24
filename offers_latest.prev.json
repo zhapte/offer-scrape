@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Burberry",
+    "discount_percent": 50,
+    "title": "Additional 50%–60% off on select styles*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
+  },
+  {
     "brand": "Guess",
     "discount_percent": 50,
     "title": "Buy one, get one 50% off select styles*",
@@ -30,16 +37,16 @@
   {
     "brand": "Columbia",
     "discount_percent": null,
-    "title": "Gear up with Rainwear",
-    "categories": "Children, Clothing, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
+    "title": "Fleece Now 2 for $60",
+    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
   },
   {
     "brand": "Columbia",
     "discount_percent": null,
-    "title": "Fleece Now 2 for $60",
-    "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
+    "title": "Gear up with Rainwear",
+    "categories": "Children, Clothing, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
     "brand": "Fossil",
@@ -61,12 +68,5 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "Dubai 150g Bar: Buy 1 Get 1 FREE!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   }
 ]
