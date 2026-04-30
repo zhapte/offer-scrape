@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off at Kate Spade Outlet*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
     "brand": "Burberry",
     "discount_percent": 50,
     "title": "Additional 50%–60% off on select styles*",
@@ -14,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 40,
-    "title": "Almost Everything 40% - 60% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "brand": "Hour Passion",
+    "discount_percent": 50,
+    "title": "Enjoy 50% off*",
+    "categories": "Luxury, Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
     "brand": "crocs",
@@ -35,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+    "brand": "Columbia",
+    "discount_percent": null,
+    "title": "Gear up with Rainwear",
+    "categories": "Children, Clothing, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
     "brand": "Columbia",
@@ -47,13 +54,6 @@
     "title": "Fleece Now 2 for $60",
     "categories": "Children, Clothing, Sportswear, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia2/"
-  },
-  {
-    "brand": "Columbia",
-    "discount_percent": null,
-    "title": "Gear up with Rainwear",
-    "categories": "Children, Clothing, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   },
   {
     "brand": "Fossil",
