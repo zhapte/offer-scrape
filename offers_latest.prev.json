@@ -35,11 +35,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/movado/"
   },
   {
+    "brand": "Gap",
+    "discount_percent": 40,
+    "title": "Almost Everything 40% - 60% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
     "brand": "Harry Rosen",
     "discount_percent": 20,
     "title": "Extra 20% Off Sportswear & Outerwear*",
     "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off your entire purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Fossil",
@@ -54,19 +68,5 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
   }
 ]
