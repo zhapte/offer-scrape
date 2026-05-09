@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "MOVADO",
-    "discount_percent": 50,
-    "title": "Up to 50% off + an extra 25%*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/movado/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 40,
     "title": "Almost Everything 40% - 60% Off*",
@@ -54,6 +47,13 @@
     "title": "Enjoy 20% off your entire purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Maje",
+    "discount_percent": 15,
+    "title": "Enjoy an additional 15% your purchase of 2+ items*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
     "brand": "Fossil",
