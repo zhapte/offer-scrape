@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off at Kate Spade Outlet*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "Burberry",
     "discount_percent": 50,
     "title": "Additional 50%–60% off on select styles*",
@@ -21,11 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "Lindt",
+    "brand": "MOVADO",
     "discount_percent": 50,
-    "title": "Dubai 108g Egg Box: 50% off!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "Up to 50% off + an extra 25%*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/movado/"
   },
   {
     "brand": "Gap",
@@ -56,17 +49,24 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Fossil",
-    "discount_percent": null,
-    "title": "Mother's Day",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
     "brand": "Harry Rosen",
     "discount_percent": null,
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": null,
+    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": null,
+    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
   }
 ]
