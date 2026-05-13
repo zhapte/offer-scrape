@@ -21,6 +21,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/movado/"
   },
   {
+    "brand": "QE Home",
+    "discount_percent": 50,
+    "title": "Spring Quilt Sets Up to 50% OFF!*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 40,
     "title": "Almost Everything 40% - 60% Off*",
@@ -28,25 +35,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": 20,
-    "title": "Extra 20% Off Sportswear & Outerwear*",
-    "categories": "Luxury, Clothing, Footwear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Maje",
     "discount_percent": 15,
     "title": "Enjoy an additional 15% your purchase of 2+ items*",
     "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
+    "brand": "Fossil",
+    "discount_percent": null,
+    "title": "Father's Day",
+    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
     "brand": "Harry Rosen",
