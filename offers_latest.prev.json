@@ -1,10 +1,24 @@
 [
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off Spring Gifts*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
     "brand": "Burberry",
     "discount_percent": 50,
     "title": "Additional 50%–60% off on select styles*",
     "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Summer Accessories & Footwear: BOGO 50% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -14,25 +28,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
-    "brand": "MOVADO",
-    "discount_percent": 50,
-    "title": "Up to 50% off + an extra 25%*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/movado/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 50,
-    "title": "Spring Quilt Sets Up to 50% OFF!*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 40,
     "title": "Almost Everything 40% - 60% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": 20,
+    "title": "Lindt: Select Boxes 20% off!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Maje",
@@ -54,19 +68,5 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora4/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Enjoy our Buy 2, Get 1 Free offer at Pandora!*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora5/"
   }
 ]
