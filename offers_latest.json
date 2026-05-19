@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off plus 20% off*",
+    "categories": "Accessories & Bags, Clothing, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 50,
     "title": "Almost Everything 50% - 70% Off*",
@@ -28,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
+    "brand": "Unknown",
+    "discount_percent": 50,
+    "title": "Extra 50% Off Pants When You Buy a Sport Jacket*",
+    "categories": "Luxury, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "50% Off*",
@@ -35,25 +49,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "L'Occitane En Provence",
-    "discount_percent": 40,
-    "title": "Victoria Day Weekend - Up to 40% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 25,
     "title": "Enjoy 25% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 20,
-    "title": "Lindt: Select Boxes 20% off!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Fossil",
