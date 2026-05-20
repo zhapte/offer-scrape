@@ -2,13 +2,6 @@
   {
     "brand": "Kate Spade",
     "discount_percent": 70,
-    "title": "Up to 70% off Spring Gifts*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
     "title": "Up to 70% off plus 20% off*",
     "categories": "Accessories & Bags, Clothing, Gifting",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
@@ -19,13 +12,6 @@
     "title": "Almost Everything 50% - 70% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Summer Accessories & Footwear: BOGO 50% Off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -56,6 +42,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
+    "brand": "Michael Kors",
+    "discount_percent": 20,
+    "title": "Extra 20% off your purchase*",
+    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
+  },
+  {
     "brand": "Fossil",
     "discount_percent": null,
     "title": "Father's Day",
@@ -68,5 +61,12 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Shop World Cup Cushions and Throws From $19.99*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   }
 ]
