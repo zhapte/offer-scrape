@@ -7,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
-    "brand": "Gap",
-    "discount_percent": 50,
-    "title": "Almost Everything 50% - 70% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "brand": "Stuart Weitzman",
+    "discount_percent": 60,
+    "title": "Up to 60% off + 30% off*",
+    "categories": "Luxury, Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/stuartweitzmanoffer/"
   },
   {
     "brand": "Hour Passion",
@@ -49,6 +49,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
   },
   {
+    "brand": "Sunglass Hut",
+    "discount_percent": 20,
+    "title": "Up to 20% off AI sunglasses*",
+    "categories": "Luxury, Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
+  },
+  {
     "brand": "Fossil",
     "discount_percent": null,
     "title": "Father's Day",
@@ -61,12 +68,5 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Shop World Cup Cushions and Throws From $19.99*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   }
 ]
