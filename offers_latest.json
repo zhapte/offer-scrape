@@ -7,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
-    "brand": "Stuart Weitzman",
-    "discount_percent": 60,
-    "title": "Up to 60% off + 30% off*",
-    "categories": "Luxury, Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/stuartweitzmanoffer/"
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Buy one, get one 50% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -23,16 +23,23 @@
   {
     "brand": "Unknown",
     "discount_percent": 50,
+    "title": "50% off all ramen*",
+    "categories": "Restaurants & Cafés, Food",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kinton-ramen/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 50,
     "title": "Extra 50% Off Pants When You Buy a Sport Jacket*",
     "categories": "Luxury, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 50,
-    "title": "50% Off*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+    "brand": "Gap",
+    "discount_percent": 40,
+    "title": "Almost Everything 40% - 60% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "Jimmy Choo",
@@ -40,20 +47,6 @@
     "title": "Enjoy 25% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Michael Kors",
-    "discount_percent": 20,
-    "title": "Extra 20% off your purchase*",
-    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
-  },
-  {
-    "brand": "Sunglass Hut",
-    "discount_percent": 20,
-    "title": "Up to 20% off AI sunglasses*",
-    "categories": "Luxury, Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sunglass-hut/"
   },
   {
     "brand": "Fossil",
@@ -68,5 +61,12 @@
     "title": "SPECIAL EVENT OFFER - Full outfit $499*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Herschel Supply Co.",
+    "discount_percent": null,
+    "title": "Sample Sale is here!",
+    "categories": "Accessories & Bags, Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/herscheloffer/"
   }
 ]
