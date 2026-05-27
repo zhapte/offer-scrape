@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Buy one, get one 50% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off*",
@@ -36,17 +29,10 @@
   },
   {
     "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "20% OFF*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Fossil",
@@ -54,6 +40,13 @@
     "title": "Father's Day",
     "categories": "Accessories & Bags, Jewellery & Watches, Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Summer Essentials",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
@@ -68,5 +61,12 @@
     "title": "Summer is calling...",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "THIS IS GENERATIONAL WEALTH",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   }
 ]
