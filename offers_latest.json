@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off plus 20% off*",
-    "categories": "Accessories & Bags, Clothing, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade3/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "Enjoy 50% off*",
@@ -33,6 +26,13 @@
     "title": "Enjoy 20% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "20% OFF*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Fossil",
