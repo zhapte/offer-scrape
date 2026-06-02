@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Hour Passion",
-    "discount_percent": 50,
-    "title": "Enjoy 50% off*",
-    "categories": "Luxury, Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": 50,
     "title": "Shop Wedding Gifts Up to 50% OFF!* 💍",
@@ -68,5 +61,12 @@
     "title": "THIS IS GENERATIONAL WEALTH",
     "categories": "Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "HAPPY Best Friends Day GWP",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
