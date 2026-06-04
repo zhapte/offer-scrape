@@ -1,24 +1,24 @@
 [
   {
-    "brand": "QE Home",
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Enjoy Up to 60% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "ecco",
     "discount_percent": 50,
-    "title": "Shop Wedding Gifts Up to 50% OFF!* 💍",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "title": "Buy one get one 50% off*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
     "brand": "Gap",
-    "discount_percent": 40,
-    "title": "Almost Everything 40% - 60% Off*",
+    "discount_percent": 30,
+    "title": "Almost Everything 30% - 60% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 40,
-    "title": "40% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Jimmy Choo",
@@ -28,18 +28,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "20% OFF*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
-  },
-  {
     "brand": "Fossil",
     "discount_percent": null,
     "title": "Father's Day",
     "categories": "Accessories & Bags, Jewellery & Watches, Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Shop Summer Favorites",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "QE Home",
     "discount_percent": null,
-    "title": "HAPPY Best Friends Day GWP",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+    "title": "Explore Cooling Bedding on Sale",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   }
 ]
