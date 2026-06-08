@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Enjoy Up to 60% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "ecco",
+    "discount_percent": 50,
+    "title": "Buy one get one 50% off*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
+    "brand": "Gap",
+    "discount_percent": 30,
+    "title": "Almost Everything 30% - 60% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Ports 1961",
+    "discount_percent": 10,
+    "title": "All transactions extra 10% off*",
+    "categories": "Clothing, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ports-1961/"
+  },
+  {
+    "brand": "Fossil",
+    "discount_percent": null,
+    "title": "Father's Day",
+    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Shop Summer Favorites",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Harry Rosen",
+    "discount_percent": null,
+    "title": "SPECIAL EVENT OFFER - Full outfit $499*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Pandora",
+    "discount_percent": null,
+    "title": "Summer is calling...",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "THIS IS GENERATIONAL WEALTH",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Explore Cooling Bedding on Sale",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  }
+]
