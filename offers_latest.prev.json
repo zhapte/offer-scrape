@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 60,
-    "title": "Enjoy Up to 60% Off Entire Store*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off*",
@@ -21,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Ports 1961",
-    "discount_percent": 10,
-    "title": "All transactions extra 10% off*",
-    "categories": "Clothing, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ports-1961/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": 20,
+    "title": "20% off Bars!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Fossil",
