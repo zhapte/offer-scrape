@@ -1,6 +1,13 @@
 [
   {
     "brand": "The Cosmetics Company Store",
+    "discount_percent": 60,
+    "title": "Skincare Flash Sale - 60% OFF*",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store5/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
     "discount_percent": 50,
     "title": "Father's Day Perfect Gift for Dad - 50% OFF*",
     "categories": "Beauty",
@@ -54,13 +61,6 @@
     "title": "THIS IS GENERATIONAL WEALTH",
     "categories": "Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Explore Cooling Bedding on Sale",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "The Cosmetics Company Store",
