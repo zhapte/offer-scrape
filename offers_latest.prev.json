@@ -14,25 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 50,
-    "title": "Buy one get one 50% off*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
     "brand": "Samsonite",
     "discount_percent": 40,
     "title": "40% off*",
     "categories": "Bags & Small Leather Goods, Travel Goods",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Lindt",
@@ -56,11 +42,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
+    "brand": "Michael Kors",
+    "discount_percent": null,
+    "title": "Coffee On Us!",
+    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
+  },
+  {
     "brand": "Psycho Bunny",
     "discount_percent": null,
     "title": "THIS IS GENERATIONAL WEALTH",
     "categories": "Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "Summer Travel Essentials",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
   },
   {
     "brand": "The Cosmetics Company Store",
