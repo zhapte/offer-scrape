@@ -1,13 +1,6 @@
 [
   {
     "brand": "The Cosmetics Company Store",
-    "discount_percent": 60,
-    "title": "Skincare Flash Sale - 60% OFF*",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store5/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
     "discount_percent": 50,
     "title": "Father's Day Perfect Gift for Dad - 50% OFF*",
     "categories": "Beauty",
@@ -19,13 +12,6 @@
     "title": "40% off*",
     "categories": "Bags & Small Leather Goods, Travel Goods",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 20,
-    "title": "20% off Bars!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Fossil",
@@ -63,10 +49,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "Under Armour",
     "discount_percent": null,
-    "title": "STACK THE SAVINGS",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
+    "title": "Score of The Week | $24.99 Polos at Under Armour*",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
   }
 ]
