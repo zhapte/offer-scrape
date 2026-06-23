@@ -1,17 +1,10 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 60,
-    "title": "Enjoy Up to 60% Off Entire Store*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
-    "brand": "Unknown",
-    "discount_percent": 60,
-    "title": "Happy Father's Day - Up to 60% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
+    "brand": "Pandora",
+    "discount_percent": 50,
+    "title": "Up to 50% off select styles*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "ecco",
@@ -35,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Fossil",
-    "discount_percent": null,
-    "title": "Father's Day",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+    "brand": "QE Home",
+    "discount_percent": 20,
+    "title": "O Canada Sleep Sale: 20% Off ALL Luxury Sheets!*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Guess",
@@ -47,6 +40,13 @@
     "title": "Refreshing Summer Favorites",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Harry Rosen",
+    "discount_percent": null,
+    "title": "Special Event Offer - Last Chance",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
     "brand": "Harry Rosen",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Pandora",
     "discount_percent": null,
-    "title": "Complimentary Flower Giveaway",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "The ultimate match-day look",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   }
 ]
