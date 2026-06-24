@@ -7,11 +7,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
+    "brand": "Roots",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Children, Clothing, Childrenswear, Menswear, Womenswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/roots/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": 40,
+    "title": "40% off*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "crocs",
@@ -21,25 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": 20,
     "title": "O Canada Sleep Sale: 20% Off ALL Luxury Sheets!*",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": null,
-    "title": "Refreshing Summer Favorites",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
