@@ -1,31 +1,38 @@
 [
   {
-    "brand": "Pandora",
-    "discount_percent": 50,
-    "title": "Up to 50% off select styles*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "brand": "Fossil",
+    "discount_percent": 70,
+    "title": "Up to 70 % off*",
+    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Roots",
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Enjoy Up to 60% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Gap",
     "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Children, Clothing, Childrenswear, Menswear, Womenswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/roots/"
+    "title": "Almost Everything 50% - 70% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "ecco",
     "discount_percent": 50,
-    "title": "Buy one get one 50% off*",
+    "title": "Buy one get one 50% off footwear*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 40,
-    "title": "40% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "crocs",
@@ -35,18 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": 20,
-    "title": "O Canada Sleep Sale: 20% Off ALL Luxury Sheets!*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "Harry Rosen",
+    "brand": "Guess",
     "discount_percent": null,
-    "title": "Special Event Offer - Last Chance",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
+    "title": "Summer Style Spotlight",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Sip & Snack Event",
-    "categories": "Accessories & Bags, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+    "title": "Special Event Offer - Last Chance",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
   },
   {
-    "brand": "Pandora",
+    "brand": "Hour Passion",
     "discount_percent": null,
-    "title": "The ultimate match-day look",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+    "title": "Longines Master and HydroConquest Collections",
+    "categories": "Luxury, Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   }
 ]
