@@ -21,6 +21,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off footwear*",
@@ -40,13 +47,6 @@
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": null,
-    "title": "Summer Style Spotlight",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
