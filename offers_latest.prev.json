@@ -1,19 +1,5 @@
 [
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Up to 70 % off*",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
-    "brand": "Herschel Supply Co.",
-    "discount_percent": 70,
-    "title": "Up to 70% off*",
-    "categories": "Accessories & Bags, Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/herscheloffer/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 50,
     "title": "Almost Everything 50% - 70% Off*",
@@ -35,6 +21,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
+    "brand": "L'Occitane En Provence",
+    "discount_percent": 40,
+    "title": "Up to 40% off*",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
+  },
+  {
     "brand": "Jimmy Choo",
     "discount_percent": 25,
     "title": "Enjoy 25% off*",
@@ -42,31 +35,38 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "crocs",
-    "discount_percent": 25,
-    "title": "25% off entire purchase*",
-    "categories": "Children, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+    "brand": "Moose Knuckles",
+    "discount_percent": 15,
+    "title": "Moose Knuckles: Extra 15% Off*",
+    "categories": "Luxury, Children, Outerwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/moose-knuckles/"
   },
   {
-    "brand": "Harry Rosen",
+    "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "Special Event Offer - Last Chance",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen/"
+    "title": "The Clearance Event Starts Now!",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Harry Rosen",
+    "brand": "Lindt",
     "discount_percent": null,
-    "title": "SPECIAL EVENT OFFER - Full outfit $499*",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+    "title": "100 LINDOR for $48!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "Hour Passion",
+    "brand": "Maje",
     "discount_percent": null,
-    "title": "Longines Master and HydroConquest Collections",
-    "categories": "Luxury, Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
+    "title": "BUY MORE SAVE MORE",
+    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": null,
+    "title": "Extra $50 Off every $250 Spent*",
+    "categories": "Luxury, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   }
 ]
