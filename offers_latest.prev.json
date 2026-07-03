@@ -1,17 +1,17 @@
 [
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Enjoy Up to 60% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 50,
     "title": "Almost Everything 50% - 70% Off*",
     "categories": "Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess--percent-off/"
   },
   {
     "brand": "ecco",
@@ -35,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Moose Knuckles",
-    "discount_percent": 15,
-    "title": "Moose Knuckles: Extra 15% Off*",
-    "categories": "Luxury, Children, Outerwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/moose-knuckles/"
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Summer Style Event",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Kate Spade",
