@@ -14,13 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 50,
-    "title": "Buy one get one 50% off footwear*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
     "brand": "L'Occitane En Provence",
     "discount_percent": 40,
     "title": "Up to 40% off*",
@@ -33,6 +26,13 @@
     "title": "Enjoy 25% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Moose Knuckles",
+    "discount_percent": 15,
+    "title": "Moose Knuckles: Extra 15% Off*",
+    "categories": "Luxury, Children, Outerwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/moose-knuckles/"
   },
   {
     "brand": "Guess",
