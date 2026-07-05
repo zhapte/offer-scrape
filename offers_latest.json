@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Moose Knuckles",
-    "discount_percent": 15,
-    "title": "Moose Knuckles: Extra 15% Off*",
-    "categories": "Luxury, Children, Outerwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/moose-knuckles/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": null,
     "title": "Summer Style Event",
@@ -61,6 +54,13 @@
     "title": "BUY MORE SAVE MORE",
     "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": null,
+    "title": "Vancouver Ice Cream Festival",
+    "categories": "Food",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-praguery2/"
   },
   {
     "brand": "Unknown",
