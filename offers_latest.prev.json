@@ -1,24 +1,17 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 60,
-    "title": "Enjoy Up to 60% Off Entire Store*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
-    "brand": "Gap",
+    "brand": "Pandora",
     "discount_percent": 50,
-    "title": "Almost Everything 50% - 70% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "title": "Up to 50% off select styles*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
-    "brand": "L'Occitane En Provence",
-    "discount_percent": 40,
-    "title": "Up to 40% off*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
+    "brand": "Harry Rosen",
+    "discount_percent": 30,
+    "title": "Blue Ticket Promo - Extra 30% Off*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
     "brand": "Jimmy Choo",
@@ -26,6 +19,13 @@
     "title": "Enjoy 25% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "Up to 20% off*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Guess",
@@ -42,13 +42,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "100 LINDOR for $48!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "Maje",
     "discount_percent": null,
     "title": "BUY MORE SAVE MORE",
@@ -56,11 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Unknown",
+    "brand": "Pandora",
     "discount_percent": null,
-    "title": "Extra $50 Off every $250 Spent*",
-    "categories": "Luxury, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+    "title": "The ultimate match-day look",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Try the Cool Touch Experience in Store! 🩵",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
