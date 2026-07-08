@@ -1,10 +1,31 @@
 [
   {
-    "brand": "Pandora",
-    "discount_percent": 50,
-    "title": "Up to 50% off select styles*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
+    "brand": "Gap",
+    "discount_percent": 75,
+    "title": "Up to 75% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Plenty",
+    "discount_percent": 70,
+    "title": "50-70% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 60,
+    "title": "Up to 60% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "The Body Shop",
+    "discount_percent": 60,
+    "title": "Up to 60% off*",
+    "categories": "Beauty, Gifting , Home, Perfume & Cosmetics",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-body-shop/"
   },
   {
     "brand": "Harry Rosen",
@@ -14,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Samsonite",
     "discount_percent": 20,
     "title": "Up to 20% off*",
@@ -28,25 +42,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": null,
-    "title": "Summer Style Event",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+    "brand": "Lindt",
+    "discount_percent": 15,
+    "title": "Save 15% off bars*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "The Clearance Event Starts Now!",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
-    "brand": "Maje",
-    "discount_percent": null,
-    "title": "BUY MORE SAVE MORE",
-    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+    "title": "Shop New Arrivals on Sale!",
+    "categories": "Accessories & Bags, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   },
   {
     "brand": "Pandora",
@@ -54,13 +61,6 @@
     "title": "The ultimate match-day look",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Try the Cool Touch Experience in Store! 🩵",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
