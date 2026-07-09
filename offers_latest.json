@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Jimmy Choo",
+    "discount_percent": 70,
+    "title": "Summer clearance 40-70% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
     "brand": "Plenty",
     "discount_percent": 70,
     "title": "50-70% off*",
@@ -21,11 +28,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "The Body Shop",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Beauty, Gifting , Home, Perfume & Cosmetics",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-body-shop/"
+    "title": "Enjoy Up to 60% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Harry Rosen",
@@ -33,13 +40,6 @@
     "title": "Blue Ticket Promo - Extra 30% Off*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "Up to 20% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Lindt",
