@@ -1,17 +1,17 @@
 [
   {
-    "brand": "Gap",
-    "discount_percent": 75,
-    "title": "Up to 75% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 70,
     "title": "Summer clearance 40-70% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off Summer Must-Haves!*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Plenty",
@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off footwear*",
@@ -49,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": null,
-    "title": "Shop New Arrivals on Sale!",
-    "categories": "Accessories & Bags, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "Up to 20% off*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Pandora",
@@ -61,6 +54,13 @@
     "title": "The ultimate match-day look",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Cooling Bedding on Sale Now 💙",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
     "brand": "Unknown",
