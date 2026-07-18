@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off Summer Must-Haves!*",
@@ -42,11 +49,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Samsonite",
+    "brand": "Lindt",
     "discount_percent": 20,
-    "title": "Up to 20% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
+    "title": "Lindt: Select Boxes 20% off!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Pandora",
@@ -54,13 +61,6 @@
     "title": "The ultimate match-day look",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Cooling Bedding on Sale Now 💙",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
     "brand": "Unknown",
