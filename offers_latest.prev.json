@@ -21,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Plenty",
-    "discount_percent": 70,
-    "title": "50-70% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": 60,
     "title": "Up to 60% off*",
@@ -54,6 +47,13 @@
     "title": "Lindt: Select Boxes 20% off!*",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 20,
+    "title": "Extra 20% Off*",
+    "categories": "Luxury, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "Pandora",
