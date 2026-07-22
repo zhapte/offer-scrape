@@ -21,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off footwear*",
@@ -42,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 20,
-    "title": "Up to 20% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
-  },
-  {
     "brand": "Unknown",
     "discount_percent": 20,
     "title": "Extra 20% Off*",
@@ -56,11 +42,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "RESIDUAL HEAT: Still Summer Here",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
     "brand": "QE Home",
     "discount_percent": null,
     "title": "Cooling Bedding on Sale Now 💙",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": null,
+    "title": "RULE THE SCHOOL",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny2/"
   },
   {
     "brand": "Unknown",
