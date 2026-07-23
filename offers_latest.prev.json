@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 70,
-    "title": "Summer clearance 40-70% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off Summer Must-Haves!*",
@@ -35,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "Up to 20% off*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
+  },
+  {
     "brand": "Unknown",
     "discount_percent": 20,
     "title": "Extra 20% Off*",
@@ -42,18 +42,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
+    "brand": "Peoples Jewellers",
+    "discount_percent": null,
+    "title": "EFFY Collection - Today Only!",
+    "categories": "Luxury, Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/peoples-jewellers/"
+  },
+  {
     "brand": "Psycho Bunny",
     "discount_percent": null,
     "title": "RESIDUAL HEAT: Still Summer Here",
     "categories": "Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Cooling Bedding on Sale Now 💙",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
     "brand": "Unknown",
