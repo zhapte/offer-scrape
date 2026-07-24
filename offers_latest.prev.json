@@ -1,10 +1,17 @@
 [
   {
-    "brand": "Kate Spade",
+    "brand": "Gap",
     "discount_percent": 70,
-    "title": "Up to 70% off Summer Must-Haves!*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Almost Everything 40-70% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Enjoy Up to 70% Off Entire Store*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Plenty",
@@ -14,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 50,
-    "title": "Buy one get one 50% off footwear*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+    "brand": "QE Home",
+    "discount_percent": 30,
+    "title": "Luxury Sheets Up to 30% OFF!*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Lindt",
@@ -40,13 +47,6 @@
     "title": "Extra 20% Off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Peoples Jewellers",
-    "discount_percent": null,
-    "title": "EFFY Collection - Today Only!",
-    "categories": "Luxury, Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/peoples-jewellers/"
   },
   {
     "brand": "Psycho Bunny",
