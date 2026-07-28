@@ -14,13 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy Up to 70% Off Entire Store*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Plenty",
     "discount_percent": 70,
     "title": "50-70% off*",
@@ -35,11 +28,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "Lindt",
+    "brand": "QE Home",
+    "discount_percent": 30,
+    "title": "Luxury Sheets Up to 30% OFF!*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "Samsonite",
     "discount_percent": 20,
-    "title": "Lindt: Select Boxes 20% off!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "Up to 20% off*",
+    "categories": "Bags & Small Leather Goods, Travel Goods",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
   },
   {
     "brand": "Unknown",
