@@ -7,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Gap",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 70,
-    "title": "Almost Everything 40-70% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Plenty",
@@ -21,25 +21,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
   },
   {
-    "brand": "QE Home",
+    "brand": "Guess",
     "discount_percent": 50,
-    "title": "Summer Clearance Sale: Quilt Sets Up to 50% OFF*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "title": "Buy one, get one 50% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "Samsonite",
-    "discount_percent": 40,
-    "title": "Up to 40% OFF* Storewide",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
-  },
-  {
-    "brand": "Samsonite",
+    "brand": "Jimmy Choo",
     "discount_percent": 20,
-    "title": "Up to 20% off*",
-    "categories": "Bags & Small Leather Goods, Travel Goods",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite3/"
+    "title": "Enjoy 20% off Entire Purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Unknown",
@@ -47,6 +40,13 @@
     "title": "Extra 20% Off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "LINDOR & GHIRARDELLI Bags: 2 for $22!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Psycho Bunny",
