@@ -14,18 +14,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
-    "brand": "Plenty",
-    "discount_percent": 70,
-    "title": "50-70% off*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/plenty/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": 50,
     "title": "Buy one, get one 50% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "ecco",
+    "discount_percent": 50,
+    "title": "Buy one get one 50% off footwear*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 30,
+    "title": "Up to an Extra 30% Off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "Jimmy Choo",
@@ -37,9 +44,9 @@
   {
     "brand": "Unknown",
     "discount_percent": 20,
-    "title": "Extra 20% Off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+    "title": "Spend $300, Save an Additional 20% Off*",
+    "categories": "Luxury, Accessories & Bags, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
   },
   {
     "brand": "Lindt",
@@ -47,13 +54,6 @@
     "title": "LINDOR & GHIRARDELLI Bags: 2 for $22!*",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "Psycho Bunny",
-    "discount_percent": null,
-    "title": "RESIDUAL HEAT: Still Summer Here",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   },
   {
     "brand": "Unknown",
