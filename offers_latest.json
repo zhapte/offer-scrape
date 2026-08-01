@@ -7,18 +7,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": 50,
     "title": "Buy one, get one 50% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 50,
+    "title": "Store wide 50% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/icebreaker/"
   },
   {
     "brand": "ecco",
@@ -35,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
+    "brand": "crocs",
+    "discount_percent": 25,
+    "title": "25% off entire purchase*",
+    "categories": "Children, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off Entire Purchase*",
@@ -47,13 +54,6 @@
     "title": "Spend $300, Save an Additional 20% Off*",
     "categories": "Luxury, Accessories & Bags, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "LINDOR & GHIRARDELLI Bags: 2 for $22!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Unknown",
