@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Enjoy up to 70% off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off + 20% off*",
@@ -56,11 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Lindt",
+    "brand": "Psycho Bunny",
     "discount_percent": null,
-    "title": "LINDOR & GHIRARDELLI Bags: 2 for $22!*",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "RESIDUAL HEAT: Still Summer Here",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Dorm Bedding On Sale Now!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
