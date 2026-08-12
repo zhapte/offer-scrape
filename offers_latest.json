@@ -14,13 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Buy one, get one 50% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "50% off*",
@@ -47,6 +40,13 @@
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
+    "brand": "L'Occitane En Provence",
+    "discount_percent": null,
+    "title": "SKINCARE ATELIER Event & Get Pampered With Us!",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
   },
   {
     "brand": "Psycho Bunny",
