@@ -7,11 +7,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Gap",
     "discount_percent": 70,
-    "title": "Up to 70% off + 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Almost Everything 40-70% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Karl Lagerfeld Paris: Iconic Styles Up to 70% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": 50,
+    "title": "Buy one, get one 50% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Hour Passion",
@@ -35,32 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off Entire Purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
-  },
-  {
-    "brand": "L'Occitane En Provence",
-    "discount_percent": null,
-    "title": "SKINCARE ATELIER Event & Get Pampered With Us!",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
-  },
-  {
-    "brand": "Psycho Bunny",
-    "discount_percent": null,
-    "title": "RESIDUAL HEAT: Still Summer Here",
-    "categories": "Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Dorm Bedding On Sale Now!",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
