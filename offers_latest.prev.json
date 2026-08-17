@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Up to 70 % off*",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
     "brand": "Gap",
     "discount_percent": 70,
     "title": "Almost Everything 40-70% Off*",
@@ -19,6 +12,13 @@
     "title": "Karl Lagerfeld Paris: Iconic Styles Up to 70% Off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off + 20% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Guess",
@@ -35,18 +35,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
   },
   {
+    "brand": "Unknown",
+    "discount_percent": 50,
+    "title": "Limited Time Only Extra 50% Off Select Brands*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off footwear*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
-    "brand": "Unknown",
-    "discount_percent": 30,
-    "title": "Up to an Extra 30% Off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "Jimmy Choo",
