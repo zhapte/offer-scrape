@@ -7,20 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Karl Lagerfeld Paris: Iconic Styles Up to 70% Off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off + 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": 50,
     "title": "Buy one, get one 50% off*",
@@ -61,6 +47,20 @@
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
+    "brand": "L'Occitane En Provence",
+    "discount_percent": null,
+    "title": "SKINCARE ATELIER Event & Get Pampered With Us!",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "New SWISS CLASSIC 150g Bars: 3 for $24!*",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "Unknown",
