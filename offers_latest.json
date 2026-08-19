@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Buy one, get one 50% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "50% off*",
@@ -33,6 +26,13 @@
     "title": "Buy one get one 50% off footwear*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
+    "brand": "Carter's",
+    "discount_percent": 40,
+    "title": "Up to 40% off*",
+    "categories": "Children, Clothing, Childrenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
     "brand": "Jimmy Choo",
