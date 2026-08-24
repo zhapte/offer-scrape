@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Fossil",
+    "discount_percent": 70,
+    "title": "Up to 70 % off*",
+    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
+  },
+  {
     "brand": "Gap",
     "discount_percent": 70,
     "title": "Almost Everything 40-70% Off*",
@@ -61,12 +68,5 @@
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
-  },
-  {
-    "brand": "L'Occitane En Provence",
-    "discount_percent": null,
-    "title": "SKINCARE ATELIER Event & Get Pampered With Us!",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
   }
 ]
