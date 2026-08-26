@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Max Mara",
+    "discount_percent": 80,
+    "title": "SAVE BIG EVENT | Up To 80% Off*",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+  },
+  {
     "brand": "Fossil",
     "discount_percent": 70,
     "title": "Up to 70 % off*",
@@ -21,18 +28,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": 50,
-    "title": "Buy one, get one 50% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Hour Passion",
     "discount_percent": 50,
     "title": "50% off*",
     "categories": "Luxury, Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
+  },
+  {
+    "brand": "Mountain Warehouse",
+    "discount_percent": 50,
+    "title": "50% off entire store*",
+    "categories": "Accessories & Bags, Children, Clothing, Footwear, Sportswear, Childrenswear, Outdoors, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/mountain-warehouse/"
+  },
+  {
+    "brand": "Old Navy",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Children, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/old-navy/"
   },
   {
     "brand": "Unknown",
