@@ -1,24 +1,10 @@
 [
   {
-    "brand": "Max Mara",
-    "discount_percent": 80,
-    "title": "SAVE BIG EVENT | Up To 80% Off*",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
-  },
-  {
     "brand": "Fossil",
     "discount_percent": 70,
     "title": "Up to 70 % off*",
     "categories": "Accessories & Bags, Jewellery & Watches, Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
-    "brand": "Gap",
-    "discount_percent": 70,
-    "title": "Almost Everything 40-70% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
     "brand": "adidas",
@@ -49,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/old-navy/"
   },
   {
-    "brand": "Unknown",
-    "discount_percent": 50,
-    "title": "Limited Time Only Extra 50% Off Select Brands*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 50,
     "title": "Buy one get one 50% off footwear*",
@@ -82,5 +61,26 @@
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Jeans for $69 each*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+  },
+  {
+    "brand": "Harry Rosen",
+    "discount_percent": null,
+    "title": "Extra $50 off When You Spend $150.00 on Shoes*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": null,
+    "title": "Designer Denim Now $99*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   }
 ]
