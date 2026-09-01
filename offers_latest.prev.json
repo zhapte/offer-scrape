@@ -7,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "adidas",
-    "discount_percent": 60,
-    "title": "60% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off + 20% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Hour Passion",
@@ -35,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off Entire Purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
@@ -61,6 +54,13 @@
     "title": "Extra $50 off When You Spend $150.00 on Shoes*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "Lacoste",
+    "discount_percent": null,
+    "title": "Polos & shoes: 1 for $89 / 2 for $79 each*",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
   },
   {
     "brand": "Unknown",
