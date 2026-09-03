@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
+    "brand": "Gap",
+    "discount_percent": 70,
+    "title": "Almost Everything 50-70% Off*",
+    "categories": "Children, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
+  },
+  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Fall Styles: Up To 70% Off at Karl Lagerfeld Paris*",
@@ -14,18 +21,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off + 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "Vans",
     "discount_percent": 70,
     "title": "Buy one, get one 70% off apparel and accessories*",
     "categories": "Accessories & Bags, Children, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/vans/"
+  },
+  {
+    "brand": "The North Face",
+    "discount_percent": 60,
+    "title": "Up to 60% off*",
+    "categories": "Children, Clothing, Footwear, Sportswear, Outerwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-north-face/"
   },
   {
     "brand": "Asics",
@@ -40,13 +47,6 @@
     "title": "Buy one, get one 50% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
-    "brand": "The North Face",
-    "discount_percent": 50,
-    "title": "Up to 50% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear, Outerwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-north-face/"
   },
   {
     "brand": "Carter's",
@@ -70,18 +70,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": null,
-    "title": "Extra $50 off When You Spend $150.00 on Shoes*",
-    "categories": "Luxury",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+    "brand": "Arc'teryx",
+    "discount_percent": 20,
+    "title": "20% off Outlet prices storewide*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
   },
   {
-    "brand": "Lacoste",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Polos & shoes: 1 for $89 / 2 for $79 each*",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
+    "title": "$50 off every $250 spent*",
+    "categories": "Luxury",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
     "brand": "Unknown",
