@@ -1,38 +1,24 @@
 [
   {
-    "brand": "Calvin Klein",
-    "discount_percent": 70,
-    "title": "Up to 70% off entire store*",
-    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
-  },
-  {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Up to 70 % off*",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
-    "brand": "Gap",
-    "discount_percent": 70,
-    "title": "Almost Everything 50-70% Off*",
-    "categories": "Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Geox",
-    "discount_percent": 60,
-    "title": "UP TO 60% OFF*",
-    "categories": "Children, Footwear, Outerwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/geox/"
-  },
-  {
     "brand": "The North Face",
     "discount_percent": 60,
     "title": "Up to 60% off*",
     "categories": "Children, Clothing, Footwear, Sportswear, Outerwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-north-face/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 60,
+    "title": "Up to 60% off*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/icebreaker/"
+  },
+  {
+    "brand": "adidas",
+    "discount_percent": 60,
+    "title": "60% off*",
+    "categories": "Children, Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
   },
   {
     "brand": "Asics",
@@ -42,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/asics/"
   },
   {
+    "brand": "Unknown",
+    "discount_percent": 50,
+    "title": "Up to 50% off*",
+    "categories": "Footwear, Kids friendly",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/softmoc/"
+  },
+  {
     "brand": "Vans",
     "discount_percent": 50,
     "title": "Buy Any Shoe, Get Any Shoes 50% Off*",
@@ -49,18 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/vans/"
   },
   {
-    "brand": "Burberry",
+    "brand": "ALDO",
     "discount_percent": 40,
-    "title": "Extra 40% off quilted outerwear*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
-  },
-  {
-    "brand": "Carter's",
-    "discount_percent": 40,
-    "title": "Up to 40% off*",
-    "categories": "Children, Clothing, Childrenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
+    "title": "Buy one, get one 40% off*",
+    "categories": "Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
     "brand": "All Saints",
@@ -77,17 +63,31 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/nike/"
   },
   {
-    "brand": "crocs",
-    "discount_percent": 25,
-    "title": "25% off entire purchase*",
-    "categories": "Children, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
-  },
-  {
     "brand": "Arc'teryx",
     "discount_percent": 20,
     "title": "20% off Outlet prices storewide*",
     "categories": "",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
+  },
+  {
+    "brand": "Aritzia",
+    "discount_percent": 20,
+    "title": "Green Means Go - Additional 20% select styles*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aritzia/"
+  },
+  {
+    "brand": "Unknown",
+    "discount_percent": 20,
+    "title": "Spend $300, Save an Additional 20% Off*",
+    "categories": "Luxury, Accessories & Bags, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
+  },
+  {
+    "brand": "Banana Republic",
+    "discount_percent": null,
+    "title": "Skechers",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   }
 ]
