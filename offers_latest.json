@@ -1,12 +1,5 @@
 [
   {
-    "brand": "The North Face",
-    "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear, Outerwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-north-face/"
-  },
-  {
     "brand": "Unknown",
     "discount_percent": 60,
     "title": "Up to 60% off*",
@@ -35,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/softmoc/"
   },
   {
-    "brand": "Vans",
-    "discount_percent": 50,
-    "title": "Buy Any Shoe, Get Any Shoes 50% Off*",
-    "categories": "Accessories & Bags, Children, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/vans/"
-  },
-  {
     "brand": "ALDO",
     "discount_percent": 40,
     "title": "Buy one, get one 40% off*",
@@ -54,13 +40,6 @@
     "title": "Extra 30% off*",
     "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/allsaints/"
-  },
-  {
-    "brand": "Nike",
-    "discount_percent": 30,
-    "title": "Additional 30% off*",
-    "categories": "Children, Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/nike/"
   },
   {
     "brand": "Arc'teryx",
@@ -84,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
   },
   {
-    "brand": "Banana Republic",
+    "brand": "Unknown",
     "discount_percent": null,
-    "title": "Skechers",
-    "categories": "Clothing, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
+    "title": "Get 2 Pairs of Florsheim Sneakers for $200*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   }
 ]
