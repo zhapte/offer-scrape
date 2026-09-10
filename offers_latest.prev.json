@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Parisian Chic: Karl Lagerfeld Paris Up To 70% Off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off + 25% off*",
@@ -28,13 +35,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off Entire Purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
@@ -49,18 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
   },
   {
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off Entire Purchase*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
     "brand": "Pandora",
     "discount_percent": null,
     "title": "PANDORA TALISMAN COLLECTION",
     "categories": "Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
-    "brand": "Pandora",
-    "discount_percent": null,
-    "title": "Bracelet Event",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora/"
   },
   {
     "brand": "Unknown",
