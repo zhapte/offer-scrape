@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Carter's",
-    "discount_percent": 40,
-    "title": "Up to 40% off*",
-    "categories": "Children, Clothing, Childrenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
-  },
-  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
@@ -56,11 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Pandora",
+    "brand": "Ports 1961",
+    "discount_percent": 10,
+    "title": "All transactions extra 10% off*",
+    "categories": "Clothing, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ports-1961/"
+  },
+  {
+    "brand": "Psycho Bunny",
     "discount_percent": null,
-    "title": "PANDORA TALISMAN COLLECTION",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+    "title": "New Collection | Un-Uniform",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
   },
   {
     "brand": "Unknown",
