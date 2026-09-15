@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Parisian Chic: Karl Lagerfeld Paris Up To 70% Off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off + 25% off*",
@@ -35,18 +28,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Arc'teryx",
-    "discount_percent": 20,
-    "title": "20% off Outlet prices storewide*",
-    "categories": "",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off Entire Purchase*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "SELECT COLLECTIONS UP TO 20% OFF*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Maje",
@@ -56,11 +49,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Ports 1961",
-    "discount_percent": 10,
-    "title": "All transactions extra 10% off*",
-    "categories": "Clothing, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ports-1961/"
+    "brand": "Psycho Bunny",
+    "discount_percent": null,
+    "title": "New Collection | Un-Uniform",
+    "categories": "Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/psycho-bunny/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Warm & Cozy Fall Bedding On Sale Now!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
     "brand": "Unknown",
