@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Chic Finds, Up To 70% Off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Kate Spade",
     "discount_percent": 70,
     "title": "Up to 70% off + 25% off*",
@@ -42,11 +35,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Maje",
-    "discount_percent": 15,
-    "title": "Enjoy an additional 15% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+    "brand": "Samsonite",
+    "discount_percent": 20,
+    "title": "SELECT COLLECTIONS UP TO 20% OFF*",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Guess",
@@ -61,6 +54,13 @@
     "title": "Sample Sale | Prices from $15.99-$59.99",
     "categories": "Accessories & Bags, Children, Clothing",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/herscheloffer/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "Save on Fresh Fall Designs, Halloween & More!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
