@@ -7,11 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Karl Lagerfeld",
     "discount_percent": 70,
-    "title": "Up to 70% off + 25% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Shop Now: Up To 70% Off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "Harry Rosen",
@@ -19,6 +19,27 @@
     "title": "Up To 50% off New Arrivals*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": 50,
+    "title": "BOGO 50% OFF Luxury Sheets!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": 50,
+    "title": "THE GREAT BEAUTY CELEBRATION - 50% OFF",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+  },
+  {
+    "brand": "Tommy Hilfiger",
+    "discount_percent": 50,
+    "title": "UP TO 50% OFF ENTIRE STORE & MORE",
+    "categories": "Accessories & Bags, Children, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/tommy-hilfiger/"
   },
   {
     "brand": "crocs",
@@ -40,27 +61,6 @@
     "title": "SELECT COLLECTIONS UP TO 20% OFF*",
     "categories": "Accessories & Bags",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
-  },
-  {
-    "brand": "Guess",
-    "discount_percent": null,
-    "title": "Men’s Must-Haves",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
-    "brand": "Herschel Supply Co.",
-    "discount_percent": null,
-    "title": "Sample Sale | Prices from $15.99-$59.99",
-    "categories": "Accessories & Bags, Children, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/herscheloffer/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "Save on Fresh Fall Designs, Halloween & More!",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Unknown",
