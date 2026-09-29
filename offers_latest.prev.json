@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Shop Now: Up To 70% Off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": 50,
     "title": "BOGO 50% OFF Luxury Sheets!",
@@ -68,5 +61,12 @@
     "title": "Build Your Own Beauty Bundle",
     "categories": "Beauty",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
+  },
+  {
+    "brand": "Under Armour",
+    "discount_percent": null,
+    "title": "Score of The Week | $34.99 Hoodies at Under Armour",
+    "categories": "Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
   }
 ]
