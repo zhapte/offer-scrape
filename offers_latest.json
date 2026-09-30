@@ -28,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
   },
   {
+    "brand": "QE Home",
+    "discount_percent": 30,
+    "title": "Duvet Cover Flash Sale: 30% – 50% OFF!",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
+  },
+  {
     "brand": "Jimmy Choo",
     "discount_percent": 25,
     "title": "Enjoy 25% off your entire purchase*",
@@ -51,22 +58,15 @@
   {
     "brand": "The Cosmetics Company Store",
     "discount_percent": null,
-    "title": "More Bundles More Beauty",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
     "title": "Build Your Own Beauty Bundle",
     "categories": "Beauty",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
   },
   {
-    "brand": "Under Armour",
+    "brand": "The Cosmetics Company Store",
     "discount_percent": null,
-    "title": "Score of The Week | $34.99 Hoodies at Under Armour",
-    "categories": "Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
+    "title": "More Bundles More Beauty",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
