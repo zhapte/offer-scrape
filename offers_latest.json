@@ -7,25 +7,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": 50,
-    "title": "BOGO 50% OFF Luxury Sheets!",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "Tommy Hilfiger",
-    "discount_percent": 50,
-    "title": "UP TO 50% OFF ENTIRE STORE & MORE",
-    "categories": "Accessories & Bags, Children, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/tommy-hilfiger/"
-  },
-  {
-    "brand": "Under Armour",
-    "discount_percent": 50,
-    "title": "Up To 50% Off Entire Store At Under Armour.",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Iconic Style: Up To 70% Off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
   },
   {
     "brand": "QE Home",
@@ -35,11 +21,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off your entire purchase*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+    "brand": "Samsonite",
+    "discount_percent": 30,
+    "title": "Up To 30% OFF* Storewide",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "crocs",
@@ -49,11 +35,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Samsonite",
+    "brand": "Jimmy Choo",
     "discount_percent": 20,
-    "title": "SELECT COLLECTIONS UP TO 20% OFF*",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
+    "title": "Enjoy 20% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": 10,
+    "title": "WEAR PINK. GET A BOUNCEBACK + 10% OFF!*",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "More Bundles More Beauty",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   },
   {
     "brand": "The Cosmetics Company Store",
@@ -65,8 +65,8 @@
   {
     "brand": "The Cosmetics Company Store",
     "discount_percent": null,
-    "title": "More Bundles More Beauty",
+    "title": "Healthcare Heroes",
     "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
   }
 ]
