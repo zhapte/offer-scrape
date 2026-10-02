@@ -1,17 +1,17 @@
 [
   {
-    "brand": "Fossil",
-    "discount_percent": 70,
-    "title": "Up to 70 % off*",
-    "categories": "Accessories & Bags, Jewellery & Watches, Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/fossil/"
-  },
-  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 70,
     "title": "Iconic Style: Up To 70% Off at Karl Lagerfeld Paris",
     "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "Tommy Hilfiger",
+    "discount_percent": 40,
+    "title": "40% OFF YOUR PURCHASE*",
+    "categories": "Accessories & Bags, Children, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/tommy-hilfiger/"
   },
   {
     "brand": "QE Home",
