@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Iconic Style: Up To 70% Off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+    "brand": "Under Armour",
+    "discount_percent": 50,
+    "title": "Up To 50% Off Entire Store At Under Armour.",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
   },
   {
     "brand": "Tommy Hilfiger",
@@ -28,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
@@ -35,25 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "The Cosmetics Company Store",
     "discount_percent": 10,
     "title": "WEAR PINK. GET A BOUNCEBACK + 10% OFF!*",
     "categories": "Beauty, Gifting",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Build Your Own Beauty Bundle",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store2/"
   },
   {
     "brand": "The Cosmetics Company Store",
@@ -68,5 +61,12 @@
     "title": "Healthcare Heroes",
     "categories": "Beauty",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
+  },
+  {
+    "brand": "Under Armour",
+    "discount_percent": null,
+    "title": "Score of The Week | $34.99 Hoodies at Under Armour",
+    "categories": "Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
   }
 ]
