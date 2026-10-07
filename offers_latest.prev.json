@@ -1,17 +1,10 @@
 [
   {
-    "brand": "Under Armour",
-    "discount_percent": 50,
-    "title": "Up To 50% Off Entire Store At Under Armour.",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/under-armour/"
-  },
-  {
-    "brand": "Tommy Hilfiger",
+    "brand": "ecco",
     "discount_percent": 40,
-    "title": "40% OFF YOUR PURCHASE*",
-    "categories": "Accessories & Bags, Children, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/tommy-hilfiger/"
+    "title": "Buy one get one 40% off footwear*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
     "brand": "QE Home",
@@ -35,11 +28,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
+    "brand": "Lindt",
+    "discount_percent": 25,
+    "title": "Members save 25% on select boxes!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": 20,
+    "title": "Extra 20% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "The Cosmetics Company Store",
@@ -49,11 +56,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "QE Home",
     "discount_percent": null,
-    "title": "Haul-o-Ween Buy More, Save More!",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+    "title": "New Fall Duvet Covers + FREE Pillow Shams! 🍂",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "The Cosmetics Company Store",
@@ -61,12 +68,5 @@
     "title": "Healthcare Heroes",
     "categories": "Beauty",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
-  },
-  {
-    "brand": "Under Armour",
-    "discount_percent": null,
-    "title": "Score of The Week | $34.99 Hoodies at Under Armour",
-    "categories": "Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/underarmouroffer/"
   }
 ]
