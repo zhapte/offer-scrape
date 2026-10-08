@@ -1,24 +1,17 @@
 [
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Parisian Styles: Karl Lagerfeld Paris Up To 60% off",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 40,
     "title": "Buy one get one 40% off footwear*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 30,
-    "title": "Duvet Cover Flash Sale: 30% – 50% OFF!",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home2/"
-  },
-  {
-    "brand": "Samsonite",
-    "discount_percent": 30,
-    "title": "Up To 30% OFF* Storewide",
-    "categories": "Accessories & Bags",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   },
   {
     "brand": "Jimmy Choo",
@@ -49,11 +42,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": 10,
-    "title": "WEAR PINK. GET A BOUNCEBACK + 10% OFF!*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+    "brand": "Unknown",
+    "discount_percent": 20,
+    "title": "Spend $300, Save an Additional 20% Off*",
+    "categories": "Luxury, Accessories & Bags, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
+  },
+  {
+    "brand": "Maje",
+    "discount_percent": 15,
+    "title": "Enjoy an additional 15% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
+    "brand": "Max Mara",
+    "discount_percent": null,
+    "title": "Extra Savings Event",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
   },
   {
     "brand": "QE Home",
@@ -61,12 +68,5 @@
     "title": "New Fall Duvet Covers + FREE Pillow Shams! 🍂",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Healthcare Heroes",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
   }
 ]
