@@ -21,18 +21,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Lindt",
-    "discount_percent": 25,
-    "title": "Members save 25% on select boxes!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "crocs",
     "discount_percent": 25,
     "title": "25% off entire purchase*",
     "categories": "Children, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
+  },
+  {
+    "brand": "Diesel",
+    "discount_percent": 20,
+    "title": "Save an Additional 20% Off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Jewellery & Watches, Casual Clothing, Denim",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
+  },
+  {
+    "brand": "Harry Rosen",
+    "discount_percent": 20,
+    "title": "Flash Sale - Additional 20% off | Oct. 10th | 2 pm - 4 pm",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
     "brand": "Kate Spade",
@@ -42,31 +49,24 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Unknown",
-    "discount_percent": 20,
-    "title": "Spend $300, Save an Additional 20% Off*",
-    "categories": "Luxury, Accessories & Bags, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel/"
-  },
-  {
-    "brand": "Maje",
+    "brand": "Burberry",
     "discount_percent": 15,
-    "title": "Enjoy an additional 15% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+    "title": "Flash Sale - Extra 15 % off* | Oct. 10th | 10 am - 12 pm",
+    "categories": "Luxury, Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/burberry/"
   },
   {
-    "brand": "Max Mara",
-    "discount_percent": null,
-    "title": "Extra Savings Event",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+    "brand": "Cole Haan",
+    "discount_percent": 10,
+    "title": "Flash Sale - Additional 10% off* | Oct. 10th | 12 pm - 2 pm",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/cole-haan/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": null,
-    "title": "New Fall Duvet Covers + FREE Pillow Shams! 🍂",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 10,
+    "title": "Flash Sale - Additional 10% off* | Oct. 12th | 12 pm - 2 pm",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   }
 ]
