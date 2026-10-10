@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Coach",
+    "discount_percent": 60,
+    "title": "Flash Sale - 60% to 70% off select leather goods* | Oct. 12th | 2 pm - 4 pm",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
+  },
+  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 60,
     "title": "Parisian Styles: Karl Lagerfeld Paris Up To 60% off",
@@ -40,13 +47,6 @@
     "title": "Flash Sale - Additional 20% off | Oct. 10th | 2 pm - 4 pm",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Kate Spade",
-    "discount_percent": 20,
-    "title": "Extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "Burberry",
