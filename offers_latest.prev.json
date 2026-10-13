@@ -7,13 +7,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
   },
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 60,
-    "title": "Parisian Styles: Karl Lagerfeld Paris Up To 60% off",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "ecco",
     "discount_percent": 40,
     "title": "Buy one get one 40% off footwear*",
@@ -56,6 +49,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
+    "brand": "Maje",
+    "discount_percent": 15,
+    "title": "Enjoy an additional 15% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
     "brand": "Karl Lagerfeld",
     "discount_percent": 10,
     "title": "Flash Sale - Additional 10% off* | Oct. 12th | 12 pm - 2 pm",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
   },
   {
-    "brand": "Lacoste",
-    "discount_percent": 10,
-    "title": "Flash Sale - Additional 10% off* | Oct. 11th | 4 pm - 6 pm",
-    "categories": "Clothing, Footwear, Sportswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste2/"
+    "brand": "Max Mara",
+    "discount_percent": null,
+    "title": "Extra Savings Event",
+    "categories": "Luxury, Clothing",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
   }
 ]
