@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Coach",
-    "discount_percent": 60,
-    "title": "Flash Sale - 60% to 70% off select leather goods* | Oct. 12th | 2 pm - 4 pm",
+    "brand": "Kate Spade",
+    "discount_percent": 70,
+    "title": "Up to 70% off + 20% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
     "brand": "ecco",
@@ -14,18 +14,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 25,
-    "title": "Members save 25% on select boxes!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "brand": "Sandro",
+    "discount_percent": 30,
+    "title": "Up to an additional 30% off*",
+    "categories": "Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sandro/"
   },
   {
     "brand": "crocs",
@@ -42,31 +35,38 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Jimmy Choo",
     "discount_percent": 20,
-    "title": "Extra 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "title": "Enjoy 20% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
-    "brand": "Maje",
-    "discount_percent": 15,
-    "title": "Enjoy an additional 15% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
-  },
-  {
-    "brand": "Karl Lagerfeld",
+    "brand": "The Cosmetics Company Store",
     "discount_percent": 10,
-    "title": "Flash Sale - Additional 10% off* | Oct. 12th | 12 pm - 2 pm",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld2/"
+    "title": "WEAR PINK. GET A BOUNCEBACK + 10% OFF!*",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
   },
   {
-    "brand": "Max Mara",
+    "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "Extra Savings Event",
-    "categories": "Luxury, Clothing",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/max-mara/"
+    "title": "SPECIAL EVENT OFFER",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
+    "brand": "QE Home",
+    "discount_percent": null,
+    "title": "New Fall Duvet Covers + FREE Pillow Shams! 🍂",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "Healthcare Heroes",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
   }
 ]
