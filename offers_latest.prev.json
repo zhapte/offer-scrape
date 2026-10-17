@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/crocs/"
   },
   {
-    "brand": "Diesel",
-    "discount_percent": 20,
-    "title": "Save an Additional 20% Off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Jewellery & Watches, Casual Clothing, Denim",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off*",
@@ -61,6 +54,13 @@
     "title": "New Fall Duvet Covers + FREE Pillow Shams! 🍂",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "Haul-o-Ween Buy More, Save More!",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   },
   {
     "brand": "The Cosmetics Company Store",
