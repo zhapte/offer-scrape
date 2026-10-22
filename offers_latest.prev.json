@@ -7,11 +7,32 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Iconic Looks: Up To 60% Off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
+    "brand": "ecco",
+    "discount_percent": 40,
+    "title": "Buy one get one 40% off footwear*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
+  },
+  {
     "brand": "Sandro",
     "discount_percent": 30,
     "title": "Up to an additional 30% off*",
     "categories": "Clothing, Footwear, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sandro/"
+  },
+  {
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Lindt",
@@ -42,31 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": 10,
-    "title": "WEAR PINK. GET A BOUNCEBACK + 10% OFF!*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
-  },
-  {
     "brand": "Harry Rosen",
     "discount_percent": null,
     "title": "SPECIAL EVENT OFFER",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "Healthcare Heroes",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store23/"
   }
 ]
