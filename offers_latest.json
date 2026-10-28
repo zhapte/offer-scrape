@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Kate Spade",
-    "discount_percent": 70,
-    "title": "Up to 70% off + 20% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+    "brand": "Carter's",
+    "discount_percent": 40,
+    "title": "Watch them glow: up to 40% off* at Carters",
+    "categories": "Children, Clothing, Childrenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
     "brand": "ecco",
@@ -21,13 +21,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sandro/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Lindt",
     "discount_percent": 25,
     "title": "Members save 25% on select boxes!",
@@ -37,7 +30,7 @@
   {
     "brand": "QE Home",
     "discount_percent": 25,
-    "title": "One Week Only: Get 25% OFF Eucalyptus Luxe Sheets!*",
+    "title": "One Week Only: Get 25% OFF Bamboo Cotton Sheets!*",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
@@ -56,11 +49,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "Jimmy Choo",
     "discount_percent": 20,
-    "title": "Spooky Flash - Extra 20% OFF*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+    "title": "Enjoy 20% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
   },
   {
     "brand": "Harry Rosen",
@@ -68,5 +61,12 @@
     "title": "SPECIAL EVENT OFFER",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
+  },
+  {
+    "brand": "Kate Spade",
+    "discount_percent": null,
+    "title": "The Holiday Gift Guide is here!",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   }
 ]
