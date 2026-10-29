@@ -14,13 +14,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Sandro",
-    "discount_percent": 30,
-    "title": "Up to an additional 30% off*",
-    "categories": "Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/sandro/"
-  },
-  {
     "brand": "Lindt",
     "discount_percent": 25,
     "title": "Members save 25% on select boxes!",
@@ -68,5 +61,26 @@
     "title": "The Holiday Gift Guide is here!",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
+  },
+  {
+    "brand": "L'Occitane En Provence",
+    "discount_percent": null,
+    "title": "Beauty Treats Event - Oct. 31 - Nov. 1",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
+  },
+  {
+    "brand": "The Body Shop",
+    "discount_percent": null,
+    "title": "Beauty Treats Event - Oct. 31 - Nov. 1",
+    "categories": "Beauty, Gifting , Home, Perfume & Cosmetics",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-body-shop/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "Beauty Treats Event - Oct. 31 - Nov. 1",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
