@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 60,
+    "title": "Chic Finds: Up To 60% Off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 40,
     "title": "Watch them glow: up to 40% off* at Carters",
@@ -12,20 +19,6 @@
     "title": "Buy one get one 40% off footwear*",
     "categories": "Accessories & Bags, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": 25,
-    "title": "Members save 25% on select boxes!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
-    "brand": "QE Home",
-    "discount_percent": 25,
-    "title": "One Week Only: Get 25% OFF Bamboo Cotton Sheets!*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "crocs",
@@ -47,6 +40,13 @@
     "title": "Enjoy 20% off*",
     "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Extra Savings Await",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
