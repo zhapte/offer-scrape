@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 60,
-    "title": "Chic Finds: Up To 60% Off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Carter's",
     "discount_percent": 40,
     "title": "Watch them glow: up to 40% off* at Carters",
@@ -21,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
-    "brand": "Lindt",
+    "brand": "Pandora",
+    "discount_percent": 30,
+    "title": "Extra 30% off*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
+  },
+  {
+    "brand": "QE Home",
     "discount_percent": 25,
-    "title": "Members save 25% on select boxes!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+    "title": "One Week Only: Get 25% OFF Bamboo Cotton Sheets!*",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   },
   {
     "brand": "Jimmy Choo",
@@ -44,13 +44,6 @@
   {
     "brand": "Harry Rosen",
     "discount_percent": null,
-    "title": "SPECIAL EVENT OFFER",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Harry Rosen",
-    "discount_percent": null,
     "title": "2 for $99: Select Shirts*",
     "categories": "Luxury",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
@@ -63,10 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "L'Occitane En Provence",
+    "brand": "The Cosmetics Company Store",
     "discount_percent": null,
-    "title": "Beauty Treats Event - Oct. 31 - Nov. 1",
+    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
     "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/loccitane-1/"
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
