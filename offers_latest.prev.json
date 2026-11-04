@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Karl Lagerfeld",
+    "discount_percent": 70,
+    "title": "Paris Edit: Up To 70% Off at Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 40,
     "title": "Watch them glow: up to 40% off* at Carters",
@@ -21,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   },
   {
-    "brand": "QE Home",
-    "discount_percent": 25,
-    "title": "One Week Only: Get 25% OFF Bamboo Cotton Sheets!*",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
     "brand": "Jimmy Choo",
     "discount_percent": 20,
     "title": "Enjoy 20% off*",
@@ -37,7 +37,7 @@
   {
     "brand": "Guess",
     "discount_percent": null,
-    "title": "Extra Savings Await",
+    "title": "Boots Worth Falling For",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "Lacoste",
     "discount_percent": null,
-    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+    "title": "VIP Sale - Nov. 7 Only",
+    "categories": "Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
   },
   {
-    "brand": "The Cosmetics Company Store",
+    "brand": "QE Home",
     "discount_percent": null,
-    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
+    "title": "BLACK FRIDAY is on at QE Home",
+    "categories": "Gifting , Home",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
   }
 ]
