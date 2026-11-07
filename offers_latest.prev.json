@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": null,
     "title": "Boots Worth Falling For",
@@ -61,6 +54,13 @@
     "title": "VIP Sale - Nov. 7 Only",
     "categories": "Accessories & Bags, Clothing, Footwear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
+  },
+  {
+    "brand": "Lindt",
+    "discount_percent": null,
+    "title": "$10 off every $50 spend!",
+    "categories": "Gifting , Confectionery",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
     "brand": "QE Home",
