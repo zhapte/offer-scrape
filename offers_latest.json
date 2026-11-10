@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Karl Lagerfeld",
-    "discount_percent": 70,
-    "title": "Paris Edit: Up To 70% Off at Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Carter's",
     "discount_percent": 40,
     "title": "Watch them glow: up to 40% off* at Carters",
@@ -28,9 +21,16 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   },
   {
+    "brand": "Swarovski",
+    "discount_percent": 20,
+    "title": "Additional 20% off*",
+    "categories": "Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/swarovski/"
+  },
+  {
     "brand": "Guess",
     "discount_percent": null,
-    "title": "Boots Worth Falling For",
+    "title": "Too Good to Miss!",
     "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
@@ -49,24 +49,24 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
   },
   {
-    "brand": "Lacoste",
-    "discount_percent": null,
-    "title": "VIP Sale - Nov. 7 Only",
-    "categories": "Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lacoste/"
-  },
-  {
-    "brand": "Lindt",
-    "discount_percent": null,
-    "title": "$10 off every $50 spend!",
-    "categories": "Gifting , Confectionery",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": null,
     "title": "BLACK FRIDAY is on at QE Home",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
