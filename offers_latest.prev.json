@@ -1,5 +1,12 @@
 [
   {
+    "brand": "Karl Lagerfeld Paris",
+    "discount_percent": 70,
+    "title": "Iconic Style: Up To 70% Off Karl Lagerfeld Paris*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 40,
     "title": "Watch them glow: up to 40% off* at Carters",
@@ -12,6 +19,13 @@
     "title": "Up to 40% Storewide + additional 15% off*",
     "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
+  },
+  {
+    "brand": "ecco",
+    "discount_percent": 40,
+    "title": "Up to 40% off*",
+    "categories": "Accessories & Bags, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
     "brand": "Pandora",
@@ -54,19 +68,5 @@
     "title": "Shop the Black Friday Sheet Sale! ✨",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
