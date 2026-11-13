@@ -8,8 +8,8 @@
   },
   {
     "brand": "Carter's",
-    "discount_percent": 40,
-    "title": "Watch them glow: up to 40% off* at Carters",
+    "discount_percent": 50,
+    "title": "Up to 50% off* site and store",
     "categories": "Children, Clothing, Childrenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
@@ -42,13 +42,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/swarovski/"
   },
   {
-    "brand": "Guess",
-    "discount_percent": null,
-    "title": "Too Good to Miss!",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
-  },
-  {
     "brand": "Harry Rosen",
     "discount_percent": null,
     "title": "2 for $99: Select Shirts*",
@@ -56,17 +49,24 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen3/"
   },
   {
-    "brand": "Kate Spade",
-    "discount_percent": null,
-    "title": "The Season Starts Now!",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade/"
-  },
-  {
     "brand": "QE Home",
     "discount_percent": null,
     "title": "Shop the Black Friday Sheet Sale! ✨",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
+    "categories": "Beauty, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
+  },
+  {
+    "brand": "The Cosmetics Company Store",
+    "discount_percent": null,
+    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
+    "categories": "Beauty",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
