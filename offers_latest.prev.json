@@ -35,11 +35,25 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
   },
   {
-    "brand": "Swarovski",
+    "brand": "Diesel",
     "discount_percent": 20,
-    "title": "Additional 20% off*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/swarovski/"
+    "title": "Spend $300, enjoy 20% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Jewellery & Watches, Casual Clothing, Denim",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
+  },
+  {
+    "brand": "Jimmy Choo",
+    "discount_percent": 20,
+    "title": "Enjoy 20% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
+    "brand": "Guess",
+    "discount_percent": null,
+    "title": "Something Special Awaits!",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
     "brand": "Harry Rosen",
@@ -54,19 +68,5 @@
     "title": "Shop the Black Friday Sheet Sale! ✨",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "HOLIDAY 6 FOR $78 SELECT MAKEUP*",
-    "categories": "Beauty, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store22/"
-  },
-  {
-    "brand": "The Cosmetics Company Store",
-    "discount_percent": null,
-    "title": "A GIFT OF HONOR GIFT WITH PURCHASE",
-    "categories": "Beauty",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/the-cosmetics-company-store/"
   }
 ]
