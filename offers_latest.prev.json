@@ -28,13 +28,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Pandora",
-    "discount_percent": 30,
-    "title": "Extra 30% off*",
-    "categories": "Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/pandora2/"
-  },
-  {
     "brand": "Diesel",
     "discount_percent": 20,
     "title": "Spend $300, enjoy 20% off*",
@@ -68,5 +61,12 @@
     "title": "Shop the Black Friday Sheet Sale! ✨",
     "categories": "Gifting , Home",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+  },
+  {
+    "brand": "Samsonite",
+    "discount_percent": null,
+    "title": "Get Sets For The Holidays",
+    "categories": "Accessories & Bags",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/samsonite/"
   }
 ]
