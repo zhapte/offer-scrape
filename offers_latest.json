@@ -1,12 +1,5 @@
 [
   {
-    "brand": "Karl Lagerfeld Paris",
-    "discount_percent": 70,
-    "title": "Iconic Style: Up To 70% Off Karl Lagerfeld Paris*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
-  },
-  {
     "brand": "Carter's",
     "discount_percent": 50,
     "title": "Up to 50% off* site and store",
@@ -40,6 +33,13 @@
     "title": "Early Black Friday: Save 25%!",
     "categories": "Gifting , Confectionery",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
+  },
+  {
+    "brand": "Michael Kors",
+    "discount_percent": 25,
+    "title": "Black Friday - Additional 25% off*",
+    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
   },
   {
     "brand": "Diesel",
