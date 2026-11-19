@@ -1,17 +1,17 @@
 [
   {
+    "brand": "Karl Lagerfeld Paris",
+    "discount_percent": 70,
+    "title": "Paris Edit: Up To 70% Off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 50,
     "title": "Up to 50% off* site and store",
     "categories": "Children, Clothing, Childrenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
-  },
-  {
-    "brand": "Maje",
-    "discount_percent": 40,
-    "title": "Up to 40% Storewide + additional 15% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/maje/"
   },
   {
     "brand": "ecco",
@@ -28,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
   },
   {
+    "brand": "Jimmy Choo",
+    "discount_percent": 25,
+    "title": "Enjoy 25% off*",
+    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+  },
+  {
     "brand": "Lindt",
     "discount_percent": 25,
     "title": "Early Black Friday: Save 25%!",
@@ -35,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/lindt/"
   },
   {
-    "brand": "Michael Kors",
-    "discount_percent": 25,
-    "title": "Black Friday - Additional 25% off*",
-    "categories": "Accessories & Bags, Clothing, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/michaelkorsoffer/"
+    "brand": "Arc'teryx",
+    "discount_percent": 20,
+    "title": "Black Friday - 20% off Outlet prices storewide*",
+    "categories": "",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
   },
   {
     "brand": "Diesel",
@@ -49,13 +56,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
   },
   {
-    "brand": "Jimmy Choo",
-    "discount_percent": 20,
-    "title": "Enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
-  },
-  {
     "brand": "Guess",
     "discount_percent": null,
     "title": "Something Special Awaits!",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
   },
   {
-    "brand": "QE Home",
+    "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "Shop the Black Friday Sheet Sale! ✨",
-    "categories": "Gifting , Home",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/qe-home/"
+    "title": "Black Friday Deals are Here!",
+    "categories": "Accessories & Bags, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   }
 ]
