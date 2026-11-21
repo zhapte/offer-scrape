@@ -7,6 +7,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
   },
   {
+    "brand": "Karl Lagerfeld Paris",
+    "discount_percent": 70,
+    "title": "Paris Edit: Up To 70% Off at Karl Lagerfeld Paris",
+    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+  },
+  {
     "brand": "Banana Republic",
     "discount_percent": 60,
     "title": "Extra 60% off*",
@@ -56,17 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
   },
   {
-    "brand": "Diesel",
-    "discount_percent": 20,
-    "title": "Spend $300, enjoy 20% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Jewellery & Watches, Casual Clothing, Denim",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/diesel2/"
-  },
-  {
-    "brand": "Guess",
+    "brand": "Kate Spade",
     "discount_percent": null,
-    "title": "Something Special Awaits!",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/guess/"
+    "title": "Black Friday Deals are Here!",
+    "categories": "Accessories & Bags, Gifting",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
   }
 ]
