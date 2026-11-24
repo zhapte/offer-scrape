@@ -1,17 +1,10 @@
 [
   {
-    "brand": "Gap",
+    "brand": "Unknown",
     "discount_percent": 70,
-    "title": "Almost Everything 50-70% Off*",
-    "categories": "Children, Clothing, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/gap--percent/"
-  },
-  {
-    "brand": "Karl Lagerfeld Paris",
-    "discount_percent": 70,
-    "title": "Paris Edit: Up To 70% Off at Karl Lagerfeld Paris",
-    "categories": "Accessories & Bags, Clothing, Footwear, Menswear, Womenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/karl-lagerfeld/"
+    "title": "Up to 70% off*",
+    "categories": "Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/icebreaker/"
   },
   {
     "brand": "Banana Republic",
@@ -21,11 +14,18 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/banana-republic/"
   },
   {
-    "brand": "Hour Passion",
+    "brand": "adidas",
     "discount_percent": 60,
-    "title": "Up to 60% off*",
-    "categories": "Luxury, Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/hourpassionoffer/"
+    "title": "60% off*",
+    "categories": "Children, Clothing, Footwear, Sportswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/adidas-percent/"
+  },
+  {
+    "brand": "All Saints",
+    "discount_percent": 50,
+    "title": "Extra 50% off Everything",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/allsaints/"
   },
   {
     "brand": "Carter's",
@@ -35,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
   },
   {
+    "brand": "ALDO",
+    "discount_percent": 40,
+    "title": "Buy one, get one 40% off*",
+    "categories": "Footwear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
+  },
+  {
     "brand": "ecco",
     "discount_percent": 40,
     "title": "Up to 40% off*",
@@ -42,18 +49,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
   },
   {
-    "brand": "Harry Rosen",
-    "discount_percent": 25,
-    "title": "BLACK FRIDAY - EXTRA 25% OFF STOREWIDE*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear, Casual Clothing, Formal Clothing, Menswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/harry-rosen2/"
-  },
-  {
-    "brand": "Jimmy Choo",
-    "discount_percent": 25,
-    "title": "Enjoy 25% off*",
-    "categories": "Luxury, Accessories & Bags, Clothing, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/jimmy-choo/"
+    "brand": "Armani Exchange",
+    "discount_percent": 30,
+    "title": "Additional 30% off*",
+    "categories": "Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani-exchange/"
   },
   {
     "brand": "Arc'teryx",
@@ -63,10 +63,10 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
   },
   {
-    "brand": "Kate Spade",
+    "brand": "Columbia",
     "discount_percent": null,
-    "title": "Black Friday Deals are Here!",
-    "categories": "Accessories & Bags, Gifting",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/kate-spade2/"
+    "title": "Fleece starting at $24.99*",
+    "categories": "Children, Clothing, Sportswear, Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   }
 ]
