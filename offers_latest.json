@@ -28,6 +28,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/allsaints/"
   },
   {
+    "brand": "Aritzia",
+    "discount_percent": 50,
+    "title": "Up to 50% off everything*",
+    "categories": "Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aritzia/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 50,
     "title": "Up to 50% off* site and store",
@@ -42,13 +49,6 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aldo/"
   },
   {
-    "brand": "ecco",
-    "discount_percent": 40,
-    "title": "Up to 40% off*",
-    "categories": "Accessories & Bags, Footwear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/ecco/"
-  },
-  {
     "brand": "Armani Exchange",
     "discount_percent": 30,
     "title": "Additional 30% off*",
@@ -56,17 +56,17 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani-exchange/"
   },
   {
+    "brand": "Coach",
+    "discount_percent": 25,
+    "title": "Black Friday - Extra 25% off*",
+    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
+  },
+  {
     "brand": "Arc'teryx",
     "discount_percent": 20,
     "title": "Black Friday - 20% off Outlet prices storewide*",
     "categories": "Accessories & Bags, Clothing, Footwear, Sportswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/arcteryx/"
-  },
-  {
-    "brand": "Columbia",
-    "discount_percent": null,
-    "title": "Fleece starting at $24.99*",
-    "categories": "Children, Clothing, Sportswear, Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/columbia/"
   }
 ]
