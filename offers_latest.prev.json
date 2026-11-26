@@ -35,6 +35,13 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/aritzia/"
   },
   {
+    "brand": "Calvin Klein",
+    "discount_percent": 50,
+    "title": "Up to 50% off entire store*",
+    "categories": "Accessories & Bags, Clothing, Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
+  },
+  {
     "brand": "Carter's",
     "discount_percent": 50,
     "title": "Up to 50% off* site and store",
@@ -54,13 +61,6 @@
     "title": "Additional 30% off*",
     "categories": "Clothing, Menswear, Womenswear",
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/armani-exchange/"
-  },
-  {
-    "brand": "Coach",
-    "discount_percent": 25,
-    "title": "Black Friday - Extra 25% off*",
-    "categories": "Accessories & Bags, Clothing, Footwear, Gifting , Jewellery & Watches",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/coach/"
   },
   {
     "brand": "Arc'teryx",
