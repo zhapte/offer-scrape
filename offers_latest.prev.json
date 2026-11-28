@@ -1,10 +1,10 @@
 [
   {
-    "brand": "Unknown",
-    "discount_percent": 70,
-    "title": "Up to 70% off*",
-    "categories": "Black Friday",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/icebreaker/"
+    "brand": "BOSS",
+    "discount_percent": 80,
+    "title": "Up to 80% off*",
+    "categories": "Accessories & Bags, Footwear, Gifting , Menswear, Womenswear",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/boss/"
   },
   {
     "brand": "Banana Republic",
@@ -42,11 +42,11 @@
     "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/calvin-klein/"
   },
   {
-    "brand": "Carter's",
+    "brand": "Unknown",
     "discount_percent": 50,
-    "title": "Up to 50% off* site and store",
-    "categories": "Children, Clothing, Childrenswear",
-    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/carters/"
+    "title": "50% off Storewide*",
+    "categories": "Black Friday",
+    "link": "https://www.mcarthurglen.com/en/outlets/ca/designer-outlet-vancouver/offers/icebreaker/"
   },
   {
     "brand": "ALDO",
